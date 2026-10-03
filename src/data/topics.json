@@ -1,0 +1,539 @@
+[
+  {
+    "id": "economia",
+    "label": "Economia e crescimento",
+    "group": "geral",
+    "question": "Qual é o plano para a economia e o crescimento do país?",
+    "keywords": [
+      "economia",
+      "crescimento",
+      "pib",
+      "investimento",
+      "industria",
+      "desenvolvimento"
+    ]
+  },
+  {
+    "id": "contas-publicas",
+    "label": "Contas públicas e gastos",
+    "group": "geral",
+    "question": "Como vai cuidar das contas públicas, do déficit e dos gastos do governo?",
+    "keywords": [
+      "fiscal",
+      "superavit",
+      "deficit",
+      "arcabouco",
+      "gastos",
+      "divida",
+      "ministerios"
+    ]
+  },
+  {
+    "id": "impostos",
+    "label": "Impostos",
+    "group": "geral",
+    "question": "O que propõe sobre impostos e reforma tributária?",
+    "keywords": [
+      "imposto",
+      "tributo",
+      "tributaria",
+      "isencao",
+      "carga",
+      "impostos",
+      "tributos"
+    ]
+  },
+  {
+    "id": "custo-de-vida",
+    "label": "Custo de vida e inflação",
+    "group": "geral",
+    "question": "O que vai fazer para baixar o custo de vida, a comida e a conta de luz?",
+    "keywords": [
+      "inflacao",
+      "comida",
+      "alimento",
+      "luz",
+      "juros"
+    ]
+  },
+  {
+    "id": "emprego",
+    "label": "Emprego e trabalho",
+    "group": "geral",
+    "question": "Como pretende gerar empregos e proteger o trabalhador?",
+    "keywords": [
+      "emprego",
+      "trabalhador",
+      "clt",
+      "aplicativo"
+    ]
+  },
+  {
+    "id": "escala-6x1",
+    "label": "Fim da escala 6x1",
+    "group": "polemico",
+    "question": "É a favor do fim da escala 6x1 e da redução da jornada de trabalho?",
+    "keywords": [
+      "6x1",
+      "jornada",
+      "40 horas",
+      "escala"
+    ]
+  },
+  {
+    "id": "salario-minimo",
+    "label": "Salário mínimo",
+    "group": "geral",
+    "question": "Qual a política para o salário mínimo?",
+    "keywords": [
+      "salario minimo",
+      "valorizacao",
+      "reajuste"
+    ]
+  },
+  {
+    "id": "programas-sociais",
+    "label": "Programas sociais e Bolsa Família",
+    "group": "geral",
+    "question": "O que acontece com o Bolsa Família e os programas sociais?",
+    "keywords": [
+      "bolsa familia",
+      "programa social",
+      "pobreza",
+      "fome",
+      "auxilio",
+      "transferencia"
+    ]
+  },
+  {
+    "id": "saude",
+    "label": "Saúde e SUS",
+    "group": "geral",
+    "question": "Quais são as propostas para a saúde e o SUS?",
+    "keywords": [
+      "saude",
+      "sus",
+      "medico",
+      "hospital",
+      "remedio"
+    ]
+  },
+  {
+    "id": "educacao",
+    "label": "Educação",
+    "group": "geral",
+    "question": "Quais são as propostas para a educação?",
+    "keywords": [
+      "educacao",
+      "alfabetizacao",
+      "professor",
+      "universidade",
+      "ensino"
+    ]
+  },
+  {
+    "id": "escolas-civico-militares",
+    "label": "Escolas cívico-militares",
+    "group": "polemico",
+    "question": "Qual a posição sobre escolas cívico-militares?",
+    "keywords": [
+      "civico-militar",
+      "civico militar"
+    ]
+  },
+  {
+    "id": "seguranca-publica",
+    "label": "Segurança pública",
+    "group": "geral",
+    "question": "Como vai combater a violência e melhorar a segurança pública?",
+    "keywords": [
+      "seguranca",
+      "policia",
+      "violencia",
+      "crime",
+      "homicidio"
+    ]
+  },
+  {
+    "id": "faccoes",
+    "label": "PCC, CV e facções",
+    "group": "polemico",
+    "question": "O que vai fazer contra facções como PCC e Comando Vermelho?",
+    "keywords": [
+      "faccao",
+      "pcc",
+      "comando vermelho",
+      "narcoterrorismo",
+      "terrorista",
+      "milicia",
+      "pcc",
+      "cv",
+      "pv",
+      "milicias",
+      "faccoes"
+    ]
+  },
+  {
+    "id": "crime-organizado",
+    "label": "Organizações criminosas",
+    "group": "polemico",
+    "question": "Como vai enfrentar o crime organizado e a lavagem de dinheiro?",
+    "keywords": [
+      "crime organizado",
+      "organizacao criminosa",
+      "lavagem",
+      "fronteira",
+      "trafico"
+    ]
+  },
+  {
+    "id": "pena-de-morte",
+    "label": "Pena de morte e prisão perpétua",
+    "group": "polemico",
+    "question": "É a favor da pena de morte ou da prisão perpétua?",
+    "keywords": [
+      "pena de morte",
+      "prisao perpetua",
+      "perpetua"
+    ]
+  },
+  {
+    "id": "maioridade-penal",
+    "label": "Maioridade penal",
+    "group": "polemico",
+    "question": "Defende a redução da maioridade penal?",
+    "keywords": [
+      "maioridade",
+      "adolescente",
+      "16 anos"
+    ]
+  },
+  {
+    "id": "presidios",
+    "label": "Presídios e penas",
+    "group": "polemico",
+    "question": "O que propõe para presídios, penas e saidinha?",
+    "keywords": [
+      "presidio",
+      "prisao",
+      "penitenciario",
+      "saidinha",
+      "progressao"
+    ]
+  },
+  {
+    "id": "armas",
+    "label": "Armas",
+    "group": "polemico",
+    "question": "Qual a posição sobre porte e posse de armas pelo cidadão?",
+    "keywords": [
+      "arma",
+      "porte",
+      "posse",
+      "cac",
+      "legitima defesa",
+      "armas",
+      "armamento"
+    ]
+  },
+  {
+    "id": "drogas",
+    "label": "Drogas",
+    "group": "polemico",
+    "question": "Qual a posição sobre drogas, tráfico e descriminalização?",
+    "keywords": [
+      "droga",
+      "cocaina",
+      "trafico",
+      "dependencia",
+      "maconha",
+      "drogas",
+      "maconha",
+      "descriminalizacao"
+    ]
+  },
+  {
+    "id": "aborto",
+    "label": "Aborto",
+    "group": "polemico",
+    "question": "Qual a posição sobre o aborto?",
+    "keywords": [
+      "aborto",
+      "nascituro",
+      "gestacao"
+    ]
+  },
+  {
+    "id": "familia-valores",
+    "label": "Família, religião e valores",
+    "group": "polemico",
+    "question": "O que o plano diz sobre família, religião e valores?",
+    "keywords": [
+      "familia",
+      "religiao",
+      "cristao",
+      "igreja"
+    ]
+  },
+  {
+    "id": "genero-escola",
+    "label": "Gênero e diversidade",
+    "group": "polemico",
+    "question": "O que propõe sobre gênero, LGBTQIA+ e diversidade?",
+    "keywords": [
+      "genero",
+      "lgbt",
+      "diversidade",
+      "ideologia",
+      "orientacao sexual",
+      "racismo"
+    ]
+  },
+  {
+    "id": "mulheres",
+    "label": "Mulheres e feminicídio",
+    "group": "geral",
+    "question": "Quais são as propostas para as mulheres e contra o feminicídio?",
+    "keywords": [
+      "feminicidio",
+      "violencia domestica",
+      "igualdade salarial"
+    ]
+  },
+  {
+    "id": "stf-judiciario",
+    "label": "STF e Judiciário",
+    "group": "polemico",
+    "question": "Qual a posição sobre o STF e a relação entre os Poderes?",
+    "keywords": [
+      "stf",
+      "supremo",
+      "judiciario",
+      "ativismo"
+    ]
+  },
+  {
+    "id": "anistia",
+    "label": "Anistia e 8 de janeiro",
+    "group": "polemico",
+    "question": "Qual a posição sobre anistia aos condenados do 8 de janeiro?",
+    "keywords": [
+      "anistia",
+      "8 de janeiro",
+      "golpe",
+      "perdao"
+    ]
+  },
+  {
+    "id": "liberdade-expressao",
+    "label": "Liberdade de expressão e redes",
+    "group": "polemico",
+    "question": "Qual a posição sobre liberdade de expressão e regulação das redes sociais e big techs?",
+    "keywords": [
+      "liberdade de expressao",
+      "censura",
+      "redes sociais",
+      "plataformas",
+      "big techs",
+      "desinformacao"
+    ]
+  },
+  {
+    "id": "democracia",
+    "label": "Democracia e reforma política",
+    "group": "geral",
+    "question": "O que propõe para a democracia e a reforma política?",
+    "keywords": [
+      "democracia",
+      "reforma politica"
+    ]
+  },
+  {
+    "id": "corrupcao",
+    "label": "Corrupção",
+    "group": "geral",
+    "question": "Como vai combater a corrupção?",
+    "keywords": [
+      "corrupcao",
+      "transparencia",
+      "integridade",
+      "desvio"
+    ]
+  },
+  {
+    "id": "privatizacoes",
+    "label": "Privatizações e estatais",
+    "group": "polemico",
+    "question": "Vai privatizar ou fortalecer estatais como Petrobras e Correios?",
+    "keywords": [
+      "privatizacao",
+      "estatal",
+      "petrobras",
+      "correios",
+      "concessao"
+    ]
+  },
+  {
+    "id": "tamanho-do-estado",
+    "label": "Tamanho do Estado e burocracia",
+    "group": "geral",
+    "question": "Qual o tamanho ideal do Estado e o que fazer contra a burocracia?",
+    "keywords": [
+      "burocracia",
+      "ministerio",
+      "servidor",
+      "desburocratizacao"
+    ]
+  },
+  {
+    "id": "previdencia",
+    "label": "Previdência e INSS",
+    "group": "geral",
+    "question": "O que propõe para a Previdência, aposentados e o INSS?",
+    "keywords": [
+      "previdencia",
+      "inss",
+      "aposentado",
+      "aposentadoria"
+    ]
+  },
+  {
+    "id": "moradia",
+    "label": "Moradia e cidades",
+    "group": "geral",
+    "question": "O que propõe para moradia, saneamento e transporte nas cidades?",
+    "keywords": [
+      "moradia",
+      "minha casa",
+      "habitacao",
+      "saneamento",
+      "transporte"
+    ]
+  },
+  {
+    "id": "agro",
+    "label": "Agronegócio e agricultura familiar",
+    "group": "geral",
+    "question": "Quais são as propostas para o agronegócio e a agricultura familiar?",
+    "keywords": [
+      "agro",
+      "agricultura",
+      "produtor",
+      "safra",
+      "reforma agraria"
+    ]
+  },
+  {
+    "id": "mst-terra",
+    "label": "MST, invasões e reforma agrária",
+    "group": "polemico",
+    "question": "Qual a posição sobre MST, invasões de terra e reforma agrária?",
+    "keywords": [
+      "mst",
+      "invasao",
+      "reforma agraria",
+      "propriedade"
+    ]
+  },
+  {
+    "id": "meio-ambiente",
+    "label": "Meio ambiente e Amazônia",
+    "group": "geral",
+    "question": "O que propõe para o meio ambiente, o desmatamento e a Amazônia?",
+    "keywords": [
+      "meio ambiente",
+      "amazonia",
+      "desmatamento",
+      "sustentabilidade"
+    ]
+  },
+  {
+    "id": "indigenas",
+    "label": "Indígenas e marco temporal",
+    "group": "polemico",
+    "question": "Qual a posição sobre povos indígenas e demarcação de terras?",
+    "keywords": [
+      "indigena",
+      "demarcacao",
+      "marco temporal",
+      "quilombola"
+    ]
+  },
+  {
+    "id": "energia",
+    "label": "Energia e combustíveis",
+    "group": "geral",
+    "question": "Quais são as propostas para energia, petróleo e combustíveis?",
+    "keywords": [
+      "petroleo",
+      "combustivel",
+      "eletrica",
+      "transicao",
+      "gasolina"
+    ]
+  },
+  {
+    "id": "politica-externa",
+    "label": "Política externa",
+    "group": "polemico",
+    "question": "Como será a política externa e a relação com EUA, China e Venezuela?",
+    "keywords": [
+      "politica externa",
+      "eua",
+      "estados unidos",
+      "china",
+      "venezuela",
+      "brics",
+      "soberania"
+    ]
+  },
+  {
+    "id": "tecnologia",
+    "label": "Tecnologia e inteligência artificial",
+    "group": "geral",
+    "question": "O que propõe para tecnologia, internet e inteligência artificial?",
+    "keywords": [
+      "tecnologia",
+      "inteligencia artificial"
+    ]
+  },
+  {
+    "id": "pequenas-empresas",
+    "label": "Empreendedores e pequenas empresas",
+    "group": "geral",
+    "question": "O que propõe para quem empreende e para as pequenas empresas?",
+    "keywords": [
+      "empreendedor",
+      "pequena empresa",
+      "mei",
+      "simples"
+    ]
+  },
+  {
+    "id": "criancas-cuidado",
+    "label": "Crianças, creches e idosos",
+    "group": "geral",
+    "question": "O que propõe para crianças, creches, pessoas com deficiência e idosos?",
+    "keywords": [
+      "crianca",
+      "creche",
+      "idoso",
+      "cuidado",
+      "deficiencia",
+      "autismo"
+    ]
+  },
+  {
+    "id": "cultura-esporte",
+    "label": "Cultura e esporte",
+    "group": "geral",
+    "question": "O que propõe para cultura e esporte?",
+    "keywords": [
+      "cultura",
+      "esporte",
+      "lei rouanet",
+      "arte",
+      "atleta"
+    ]
+  }
+]

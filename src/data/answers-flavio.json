@@ -1,0 +1,1137 @@
+{
+  "economia": {
+    "status": "covered",
+    "answer": "O plano de Flávio estabelece como meta dobrar o ritmo de crescimento do país e alcançar 4% ao ano de forma sustentada na próxima década, com base em investimento privado, segurança jurídica e competitividade do agro, da indústria e dos serviços. Propõe estabilizar e reduzir a dívida pública para trazer os juros à média internacional e a inflação ao centro da meta. Inclui ainda R$ 900 bilhões em infraestrutura em quatro anos, regras estáveis por até 20 anos para grandes projetos e retomada da adesão à OCDE.",
+    "points": [
+      {
+        "text": "Meta de crescimento sustentado de 4% ao ano na próxima década",
+        "page": 49
+      },
+      {
+        "text": "Investir R$ 900 bilhões em quatro anos em rodovias, hidrovias, portos, aeroportos e ferrovias",
+        "page": 51
+      },
+      {
+        "text": "Mecanismos de estabilidade de regras de até 20 anos para grandes projetos",
+        "page": 50
+      },
+      {
+        "text": "Retomar o cronograma de adesão à OCDE, com fim gradual do IOF sobre câmbio",
+        "page": 63
+      },
+      {
+        "text": "Estabilizar e reduzir a dívida para baixar juros e levar a inflação ao centro da meta",
+        "page": 33
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Nossa meta é dobrar esse ritmo e alcançar um crescimento sustentado de 4% ao ano ao longo da próxima década, apoiado no investimento privado, na segurança jurídica e na competitividade do agro, da indústria e dos serviços.",
+        "page": 49
+      }
+    ]
+  },
+  "contas-publicas": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe um \"Tesouraço\" nos gastos, com reformulação das regras fiscais focada na estabilização e redução da dívida pública, entrega de superávits primários e uma regra de controle de gastos discricionários dos três Poderes. Prevê limitar o crédito subsidiado com recursos do Tesouro, cortar no mínimo 10 ministérios, reduzir cargos comissionados e combater supersalários. Também propõe dar mais transparência e rastreabilidade às emendas parlamentares e avaliar o impacto de cada política pública.",
+    "points": [
+      {
+        "text": "Reformular as regras fiscais com foco na estabilização e redução da dívida pública",
+        "page": 71
+      },
+      {
+        "text": "Entregar superávits primários e limitar crédito subsidiado com recursos do Tesouro",
+        "page": 71
+      },
+      {
+        "text": "Regra de controle de gastos discricionários dos três Poderes da União",
+        "page": 71
+      },
+      {
+        "text": "Cortar no mínimo 10 ministérios, cargos comissionados, penduricalhos e supersalários",
+        "page": 69
+      },
+      {
+        "text": "Mais transparência, controle e rastreabilidade às emendas parlamentares",
+        "page": 69
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Apresentaremos uma reformulação nas atuais regras fiscais, com regras claras focadas na estabilização e na redução da dívida pública conforme determina a Constituição.",
+        "page": 71
+      },
+      {
+        "text": "E haverá uma regra clara de controle de gastos discricionários dos três Poderes da União.",
+        "page": 71
+      }
+    ]
+  },
+  "impostos": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe revisar e redimensionar a reforma tributária em curso e os aumentos de impostos do atual governo, com o objetivo de reduzir a carga sobre produção e consumo. Prevê reduzir o IVA, que o documento afirma estar projetado em torno de 30%, assegurar a não cumulatividade e reduzir as exceções. Também propõe reduzir impostos sobre energia elétrica e combustíveis e desonerar exportações e investimentos.",
+    "points": [
+      {
+        "text": "Revisar e redimensionar a reforma tributária em curso e os aumentos de impostos recentes",
+        "page": 30
+      },
+      {
+        "text": "Reduzir o IVA e assegurar a não cumulatividade",
+        "page": 30
+      },
+      {
+        "text": "Desoneração das exportações e dos investimentos e redução das exceções",
+        "page": 30
+      },
+      {
+        "text": "Reduzir impostos sobre energia elétrica e combustíveis",
+        "page": 31
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Vamos promover a revisão e o redimensionamento da reforma tributária em curso e da majoração de impostos efetuada pelo atual governo, com o objetivo de reduzir efetivamente a carga sobre a produção e o consumo.",
+        "page": 30
+      },
+      {
+        "text": "Vamos corrigir suas distorções, reduzir o IVA, hoje projetado num dos patamares mais altos do mundo, e assegurar a não cumulatividade, para que não se cobre imposto sobre imposto.",
+        "page": 30
+      }
+    ]
+  },
+  "custo-de-vida": {
+    "status": "covered",
+    "answer": "No eixo \"Brasil Mais Barato\", o plano de Flávio propõe reduzir impostos sobre consumo, energia e combustíveis e simplificar a conta de luz, com redução gradual da CDE e manutenção da tarifa social. Para o preço dos alimentos, prevê Corredores Logísticos Inteligentes, ampliação do Seguro Rural e da armazenagem de safras e apoio à produção nacional de fertilizantes. Propõe ainda proibir o uso de recursos de programas sociais em apostas e ampliar a orientação financeira pela CAIXA.",
+    "points": [
+      {
+        "text": "Simplificar a conta de luz e reduzir gradualmente a CDE, mantendo a tarifa social",
+        "page": 31
+      },
+      {
+        "text": "Corredores Logísticos Inteligentes para reduzir custo de transporte dos alimentos",
+        "page": 31
+      },
+      {
+        "text": "Ampliar Seguro Rural e capacidade de armazenamento de safras",
+        "page": 31
+      },
+      {
+        "text": "Apoiar produção nacional de fertilizantes com potássio e fosfato",
+        "page": 32
+      },
+      {
+        "text": "Proibir uso de recursos de programas sociais para apostas",
+        "page": 33
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Vamos simplificar a conta de luz, racionalizando encargos e subsídios cruzados, e promover a redução gradual da CDE e das fontes incentivadas, mantida a tarifa social para quem mais precisa dela.",
+        "page": 31
+      }
+    ]
+  },
+  "emprego": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe reduzir gradualmente o custo do trabalho formal, \"sem retirar direitos\", com contratos de menor custo para jovens de 18 a 24 anos em busca do primeiro emprego e para pessoas com 50 anos ou mais desempregadas há pelo menos 12 meses. Defende o negociado sobre o legislado, jornada flexível e um banco nacional de vagas conectado ao RH das empresas. Também afirma que manterá as oportunidades do trabalho por aplicativos e se posiciona contra o que chama de \"República Sindical\".",
+    "points": [
+      {
+        "text": "Reduzir gradualmente o custo do trabalho, sem retirar direitos",
+        "page": 43
+      },
+      {
+        "text": "Contrato de menor custo para jovens de 18 a 24 anos no primeiro emprego",
+        "page": 44
+      },
+      {
+        "text": "Contrato mais atrativo para pessoas com 50+ anos desempregadas há 12 meses",
+        "page": 44
+      },
+      {
+        "text": "Negociado sobre o legislado e jornada flexível",
+        "page": 44
+      },
+      {
+        "text": "Banco nacional de vagas conectado ao RH das empresas",
+        "page": 44
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Vamos reduzir gradualmente o custo do trabalho, sem retirar direitos, para que mais brasileiros tenham carteira assinada e a proteção que vem com ela.",
+        "page": 43
+      },
+      {
+        "text": "Nosso projeto garante a manutenção das oportunidades de renda e de trabalho trazidas pelo trabalho por aplicativos.",
+        "page": 45
+      }
+    ]
+  },
+  "escala-6x1": {
+    "status": "partial",
+    "answer": "O plano de governo de Flávio não menciona a escala 6x1 nem propõe redução da jornada de trabalho. Sobre jornada, o documento defende jornada flexível e a prevalência do negociado sobre o legislado, e critica o atual governo por, na discussão de jornada, querer ignorar essa prevalência.",
+    "points": [
+      {
+        "text": "Jornada flexível para mães, jovens e quem tem dificuldade de entrar no mercado",
+        "page": 44
+      },
+      {
+        "text": "Defesa do negociado sobre o legislado",
+        "page": 44
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Vamos também dar mais liberdade a quem trabalha, com jornada flexível que caiba na vida de mães, jovens e de quem tem mais dificuldade de entrar no mercado.",
+        "page": 44
+      },
+      {
+        "text": "Situações que se repetem na discussão de jornada – onde o governo deseja ignorar a prevalência do negociado sobre o legislado",
+        "page": 45
+      }
+    ]
+  },
+  "salario-minimo": {
+    "status": "not_found",
+    "answer": "O plano de governo de Flávio não menciona uma política para o salário mínimo. O documento cita salários mínimos apenas como referência estatística ao tratar do endividamento das famílias.",
+    "points": [],
+    "quotes": []
+  },
+  "programas-sociais": {
+    "status": "covered",
+    "answer": "O plano de Flávio afirma que manterá os programas sociais existentes, com aperfeiçoamento da gestão, correção de distorções e combate às fraudes; o Bolsa Família não é citado nominalmente. Propõe tratar o benefício como \"ponto de partida\", com prioridade aos beneficiários em programas de primeiro emprego e qualificação, uma trilha de qualificação específica e retorno imediato ao benefício após o seguro-desemprego. Também prevê proibir o uso de recursos de programas sociais em apostas.",
+    "points": [
+      {
+        "text": "Manter os programas sociais existentes com melhor gestão e combate a fraudes",
+        "page": 42
+      },
+      {
+        "text": "Prioridade a beneficiários em primeiro emprego, qualificação e intermediação de mão de obra",
+        "page": 43
+      },
+      {
+        "text": "Retorno imediato e sem fila ao benefício após o seguro-desemprego",
+        "page": 43
+      },
+      {
+        "text": "Proibir uso de recursos de programas sociais para apostas",
+        "page": 33
+      }
+    ],
+    "quotes": [
+      {
+        "text": "vamos manter os programas sociais existentes, com aperfeiçoamento da gestão, correção de distorções e combate às fraudes.",
+        "page": 42
+      },
+      {
+        "text": "E garantiremos o retorno imediato e sem fila ao benefício após o seguro-desemprego, mantidas as condições de elegibilidade",
+        "page": 43
+      }
+    ]
+  },
+  "saude": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe criar condições para a correção efetiva da tabela SUS, ampliar a Estratégia Saúde da Família e contratar exames na rede privada em horários ociosos. Prevê prontuário eletrônico único vinculado ao CPF, digitalização do SUS com agendamento por inteligência artificial, telessaúde e entrega de remédios em domicílio. Inclui ainda o Programa de Atendimento aos Idosos, ampliação da atenção à saúde mental e manutenção da imunização com incentivo à produção nacional de vacinas.",
+    "points": [
+      {
+        "text": "Condições para correção efetiva da tabela SUS",
+        "page": 37
+      },
+      {
+        "text": "Prontuário eletrônico único vinculado ao CPF, interoperável entre redes pública e privada",
+        "page": 26
+      },
+      {
+        "text": "Contratar exames na rede privada nos horários ociosos",
+        "page": 37
+      },
+      {
+        "text": "Telessaúde e entrega de remédio em domicílio",
+        "page": 38
+      },
+      {
+        "text": "Fortalecer e ampliar a atenção à saúde mental",
+        "page": 39
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Vamos garantir as condições para que seja possível a correção efetiva da tabela SUS.",
+        "page": 37
+      },
+      {
+        "text": "Vamos ampliar a Estratégia Saúde da Família, levando o cuidado para perto de casa, e criar o Programa de Atendimento aos Idosos",
+        "page": 37
+      }
+    ]
+  },
+  "educacao": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe priorizar o método fônico na alfabetização, criar o Programa Acolher de reforço entre alunos e vincular repasses a metas de aprendizagem. Prevê ampliar escolas cívico-militares e o ensino técnico no ensino médio, voucher educacional onde faltar vaga pública e educação \"livre de doutrinação político-partidária\". No ensino superior, propõe transferir a governança para o Ministério da Ciência, Tecnologia e Inovações e substituir o modelo de financiamento estudantil pelo Empréstimo Contingente à Renda.",
+    "points": [
+      {
+        "text": "Priorizar o método fônico na alfabetização",
+        "page": 35
+      },
+      {
+        "text": "Programa Acolher: aluno de bom desempenho remunerado para dar reforço a colegas",
+        "page": 35
+      },
+      {
+        "text": "Repasses vinculados a metas de aprendizagem",
+        "page": 35
+      },
+      {
+        "text": "Voucher educacional onde faltar vaga na rede pública",
+        "page": 36
+      },
+      {
+        "text": "Empréstimo Contingente à Renda no financiamento estudantil",
+        "page": 37
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Vamos priorizar o método fônico, que é o de melhor resultado comprovado pela ciência, ensinando a criança a ligar cada som à sua letra",
+        "page": 35
+      },
+      {
+        "text": "A educação será orientada pelo conhecimento e livre de doutrinação político-partidária, respeitando a liberdade de consciência e o papel das famílias.",
+        "page": 35
+      }
+    ]
+  },
+  "escolas-civico-militares": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe ampliar as Escolas Cívico-Militares. O documento afirma que essas escolas uniram disciplina e bom desempenho onde foram implantadas, mas não detalha metas ou forma de expansão.",
+    "points": [
+      {
+        "text": "Ampliar as Escolas Cívico-Militares",
+        "page": 35
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Vamos ampliar as Escolas Cívico-Militares, que uniram disciplina e bom desempenho onde foram implantadas",
+        "page": 35
+      }
+    ]
+  },
+  "seguranca-publica": {
+    "status": "covered",
+    "answer": "O plano de Flávio coloca a segurança como primeiro eixo (\"Brasil sem Medo\") e propõe dobrar os investimentos federais em segurança pública ao longo do mandato. Prevê o sistema nacional de reconhecimento facial \"Muralha Brasileira\" com mais de 1 milhão de novas câmeras, consórcios com estados e municípios para inteligência e retomada de territórios, e endurecimento penal, incluindo pena quadruplicada para furto e receptação de celulares. Também propõe redirecionar recursos destinados a famílias de detentos para famílias de vítimas.",
+    "points": [
+      {
+        "text": "Dobrar os investimentos federais em segurança pública no mandato",
+        "page": 15
+      },
+      {
+        "text": "Muralha Brasileira: reconhecimento facial com mais de 1 milhão de câmeras",
+        "page": 15
+      },
+      {
+        "text": "Consórcios com estados e municípios para inteligência e retomada de territórios",
+        "page": 13
+      },
+      {
+        "text": "Recursos de famílias de detentos redirecionados às famílias das vítimas",
+        "page": 15
+      },
+      {
+        "text": "Pena inicial quadruplicada para quem furta ou revende celular roubado",
+        "page": 16
+      }
+    ],
+    "quotes": [
+      {
+        "text": "O novo governo do Brasil vai dobrar os investimentos federais em segurança pública ao longo do mandato.",
+        "page": 15
+      },
+      {
+        "text": "Vamos implantar o Muralha Brasileira - um sistema nacional de reconhecimento facial integrado a bancos de dados criminais",
+        "page": 15
+      }
+    ]
+  },
+  "faccoes": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe declarar PCC, CV, milícias e outras facções como organizações narcoterroristas, com prisão de líderes, bloqueio de ativos e combate à lavagem de dinheiro. Prevê 5 novos presídios de segurança máxima \"no modelo adotado por El Salvador\" para isolar chefes de facções, sem celular e sem visita íntima, e a retomada de áreas hoje sob domínio de facções. O documento também afirma que \"bandido armado com fuzil na mão vai ser abatido pelas forças de segurança\".",
+    "points": [
+      {
+        "text": "Declarar PCC, CV, milícias e facções como organizações narcoterroristas",
+        "page": 13
+      },
+      {
+        "text": "Bloquear ativos e desarticular a lavagem de dinheiro das facções",
+        "page": 13
+      },
+      {
+        "text": "Isolar chefes em presídios de segurança máxima sem celular nem visita íntima",
+        "page": 14
+      },
+      {
+        "text": "Retomar áreas sob domínio de facções",
+        "page": 47
+      }
+    ],
+    "quotes": [
+      {
+        "text": "PCC, CV, milícias e todas as outras facções serão declaradas como organizações narcoterroristas.",
+        "page": 13
+      },
+      {
+        "text": "Com isso, os bandidos vão deixar de controlar as facções criminosas de dentro dos presídios, como ocorre hoje.",
+        "page": 14
+      }
+    ]
+  },
+  "crime-organizado": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe \"declarar guerra ao crime organizado\", seguindo o dinheiro do crime com bloqueio de ativos e combate à lavagem. Nas fronteiras, prevê o Sistema Nacional de Fronteira, uma tropa de elite do Exército, Marinha e Força Aérea, e o uso de tropas da Marinha e Aeronáutica para ocupar e monitorar permanentemente portos e aeroportos contra o tráfico de cocaína. Também menciona reforçar o combate a organizações criminosas ligadas a crimes ambientais na Amazônia.",
+    "points": [
+      {
+        "text": "Bloquear ativos e desarticular a lavagem de dinheiro",
+        "page": 13
+      },
+      {
+        "text": "Sistema Nacional de Fronteira com tropa de elite das Forças Armadas",
+        "page": 13
+      },
+      {
+        "text": "Ocupação e monitoramento permanente de portos e aeroportos por tropas especiais",
+        "page": 15
+      },
+      {
+        "text": "Combate a organizações criminosas de desmatamento e garimpo ilegal",
+        "page": 58
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Vamos seguir o dinheiro do crime: bloquearemos ativos e desarticularemos a lavagem de dinheiro que sustenta as facções.",
+        "page": 13
+      },
+      {
+        "text": "Vamos criar o Sistema Nacional de Fronteira, uma tropa de elite do Exército, da Marinha e",
+        "page": 13
+      }
+    ]
+  },
+  "pena-de-morte": {
+    "status": "not_found",
+    "answer": "O plano de governo de Flávio não menciona pena de morte nem prisão perpétua. O conteúdo mais próximo é a proposta de acabar com a progressão de regime para crimes hediondos e exigir cumprimento integral da pena por assassinos e agressores de mulheres.",
+    "points": [],
+    "quotes": []
+  },
+  "maioridade-penal": {
+    "status": "covered",
+    "answer": "O plano de Flávio afirma que o novo governo vai apoiar e sancionar a redução da maioridade penal de 18 para 16 anos. Também propõe punir maiores de 14 anos que cometerem crimes graves, como estupro, tráfico, tortura e assassinato.",
+    "points": [
+      {
+        "text": "Apoiar e sancionar redução da maioridade penal de 18 para 16 anos",
+        "page": 13
+      },
+      {
+        "text": "Punir maiores de 14 anos por crimes graves como estupro, tráfico, tortura e assassinato",
+        "page": 13
+      }
+    ],
+    "quotes": [
+      {
+        "text": "O novo governo do Brasil vai apoiar e sancionar a redução da maioridade penal de 18 para 16 anos.",
+        "page": 13
+      },
+      {
+        "text": "Vamos punir também maiores de 14 anos que cometerem crimes graves, como estupro, tráfico, tortura e assassinato.",
+        "page": 13
+      }
+    ]
+  },
+  "presidios": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe 5 novos presídios federais de segurança máxima, que com os 5 atuais formariam o complexo chamado TREVA, e meio milhão de novas vagas prisionais em 4 anos em parceria com os estados. Prevê acabar com a progressão de regime para crimes hediondos, cumprimento integral da pena para agressores e assassinos de mulheres e castração química para estupradores e abusadores de crianças condenados. O documento não menciona a \"saidinha\" especificamente.",
+    "points": [
+      {
+        "text": "5 novos presídios de segurança máxima, formando o Complexo Federal TREVA",
+        "page": 14
+      },
+      {
+        "text": "Meio milhão de novas vagas prisionais em 4 anos, zerando o déficit",
+        "page": 14
+      },
+      {
+        "text": "Fim da progressão de regime para crimes hediondos",
+        "page": 15
+      },
+      {
+        "text": "Castração química para estupradores e abusadores de crianças condenados",
+        "page": 14
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Em parceria com os governos estaduais, vamos criar meio milhão de novas vagas no sistema prisional em 4 anos e zerar o déficit carcerário.",
+        "page": 14
+      },
+      {
+        "text": "o novo Governo do Brasil vai usar toda a sua força para acabar com a progressão de regime de quem comete crimes hediondos.",
+        "page": 15
+      }
+    ]
+  },
+  "armas": {
+    "status": "not_found",
+    "answer": "O plano de governo de Flávio não menciona posse ou porte de armas pelo cidadão. As referências a armas tratam apenas de armamento para as forças de segurança e da interceptação de fuzis que abastecem facções nas fronteiras.",
+    "points": [],
+    "quotes": []
+  },
+  "drogas": {
+    "status": "partial",
+    "answer": "O plano de Flávio trata do tráfico: propõe ocupar e monitorar permanentemente portos e aeroportos com tropas da Marinha e Aeronáutica, interceptar drogas nas fronteiras e classificar facções como narcoterroristas. O plano de governo de Flávio não menciona descriminalização de drogas nem políticas de uso ou prevenção.",
+    "points": [
+      {
+        "text": "Tropas especiais para ocupar e monitorar portos e aeroportos",
+        "page": 15
+      },
+      {
+        "text": "Interceptar fuzis e drogas por terra, portos e espaço aéreo",
+        "page": 14
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Nós vamos usar tropas especiais da Marinha e da Aeronáutica para ocupar e monitorar, de forma permanente, os portos e aeroportos brasileiros.",
+        "page": 15
+      }
+    ]
+  },
+  "aborto": {
+    "status": "partial",
+    "answer": "O plano de governo de Flávio não menciona o aborto nem apresenta proposta sobre o tema. Na seção de valores, o documento lista o respeito \"à vida desde a concepção\" entre os princípios que considera inegociáveis.",
+    "points": [],
+    "quotes": [
+      {
+        "text": "o respeito à liberdade, à família, à vida desde a concepção, à propriedade privada, à democracia, à liberdade de expressão e à liberdade religiosa.",
+        "page": 9
+      }
+    ]
+  },
+  "familia-valores": {
+    "status": "covered",
+    "answer": "O plano de Flávio declara como valores inegociáveis a liberdade, a família, a vida desde a concepção, a propriedade privada, a democracia, a liberdade de expressão e a liberdade religiosa, e cita a fé na conclusão. Na educação, afirma que \"quem decide sobre os valores que o filho recebe são os pais\" e propõe escola livre de doutrinação. O documento também diz respeitar \"todos os arranjos familiares\".",
+    "points": [
+      {
+        "text": "Valores declarados: liberdade, família, vida desde a concepção, propriedade, liberdade religiosa",
+        "page": 9
+      },
+      {
+        "text": "Educação livre de doutrinação político-partidária e respeito ao papel das famílias",
+        "page": 35
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Nossa forma de governar permanece fiel a valores que consideramos inegociáveis e que sustentam a sociedade brasileira",
+        "page": 9
+      },
+      {
+        "text": "Escola é lugar de aprender a pensar, não de aprender o que pensar, e quem decide sobre os valores que o filho recebe são os pais.",
+        "page": 35
+      }
+    ]
+  },
+  "genero-escola": {
+    "status": "partial",
+    "answer": "O plano de governo de Flávio não menciona políticas sobre gênero, LGBTQIA+ ou diversidade sexual. O conteúdo relacionado é a proposta de assegurar que a categoria feminina no esporte seja disputada apenas por atletas do sexo feminino e a defesa de uma educação \"livre de doutrinação\", com os pais decidindo sobre valores.",
+    "points": [
+      {
+        "text": "Categoria feminina no esporte disputada por atletas do sexo feminino",
+        "page": 41
+      },
+      {
+        "text": "Educação livre de doutrinação político-partidária",
+        "page": 35
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Vamos assegurar que a categoria feminina, da base ao alto rendimento, seja disputada por atletas do sexo feminino",
+        "page": 41
+      }
+    ]
+  },
+  "mulheres": {
+    "status": "covered",
+    "answer": "O plano de Flávio dedica o programa \"Brasil por Elas\" às mulheres, com Centrais da Mulher físicas e itinerantes, aplicativo, assistente virtual ClarIA, pacotes de internet e capacitação gratuita. Contra o feminicídio, propõe monitorar com tornozeleira eletrônica agressores sob medida protetiva, integrar canais de denúncia como o Ligue 180 e obrigar assassinos e agressores de mulheres a cumprir integralmente a pena. Prevê também ampliar abrigos, apoiar a escritura da casa no nome da mulher e ampliar o acesso a exames preventivos.",
+    "points": [
+      {
+        "text": "Tornozeleira eletrônica para agressores sob medida protetiva",
+        "page": 14
+      },
+      {
+        "text": "Cumprimento integral da pena para assassinos e agressores de mulheres",
+        "page": 14
+      },
+      {
+        "text": "Centrais da Mulher em todo o país, com unidades itinerantes",
+        "page": 17
+      },
+      {
+        "text": "Integrar Ligue 180, delegacias online e botão de emergência em uma plataforma",
+        "page": 18
+      },
+      {
+        "text": "Ampliar espaços de acolhimento e apoiar escritura da casa no nome da mulher",
+        "page": 20
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Os agressores das mais de meio milhão de mulheres com medida protetiva no Brasil serão monitorados pelas autoridades com o uso de tornozeleiras eletrônicas.",
+        "page": 14
+      },
+      {
+        "text": "Vamos endurecer a lei e obrigar assassinos e agressores de mulheres a cumprir integralmente suas penas.",
+        "page": 14
+      }
+    ]
+  },
+  "stf-judiciario": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe uma reforma do Judiciário para devolver ao STF o papel de Corte Constitucional. As medidas incluem o fim das competências criminais originárias do STF, limitação das decisões monocráticas, revisão do escopo das ADPFs, quarentena de 1 ano para ministros de Estado serem indicados ao tribunal e impedimento de parentes atuarem no tribunal do magistrado. Também propõe ampliar a participação da sociedade civil no CNJ e CNMP.",
+    "points": [
+      {
+        "text": "Fim das competências criminais originárias do STF",
+        "page": 65
+      },
+      {
+        "text": "Limitar decisões monocráticas, privilegiando decisões colegiadas",
+        "page": 65
+      },
+      {
+        "text": "Quarentena de 1 ano para ministros de Estado serem indicados ao STF",
+        "page": 65
+      },
+      {
+        "text": "Impedir parentes de até terceiro grau de atuarem no tribunal do magistrado",
+        "page": 66
+      },
+      {
+        "text": "Ampliar sociedade civil no CNJ e CNMP e limitar atuação legislativa",
+        "page": 66
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Devolver o Supremo ao seu papel de Corte Constitucional é restabelecer o equilíbrio entre os Poderes, que é a base da democracia.",
+        "page": 65
+      },
+      {
+        "text": "Limitação das decisões monocráticas do STF, privilegiando as decisões colegiadas e presumindo a constitucionalidade do processo legislativo",
+        "page": 65
+      }
+    ]
+  },
+  "anistia": {
+    "status": "not_found",
+    "answer": "O plano de governo de Flávio não menciona anistia nem os atos de 8 de janeiro. O conteúdo institucional mais próximo trata da reforma do STF e da revogação de atos que o plano considera de censura.",
+    "points": [],
+    "quotes": []
+  },
+  "liberdade-expressao": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe um \"Tesouraço da Censura\": acabar com qualquer estrutura estatal que funcione como um \"Ministério da Verdade\" para vigiar, rotular ou punir o que as pessoas dizem, e revogar os atos do atual governo que o documento afirma terem sido produzidos para silenciar críticos. O documento não trata especificamente de regulação de redes sociais ou de big techs.",
+    "points": [
+      {
+        "text": "Extinguir estruturas estatais que rotulem ou punam manifestações como desinformação",
+        "page": 66
+      },
+      {
+        "text": "Revogar atos do atual governo apontados como censura a críticos",
+        "page": 66
+      }
+    ],
+    "quotes": [
+      {
+        "text": "E vamos revogar todos os atos que o atual governo produziu para silenciar seus críticos, para que a censura já praticada",
+        "page": 66
+      },
+      {
+        "text": "Crime se combate na Justiça, com regras claras e direito de defesa. O que o governo não pode fazer é transformar a crítica em delito.",
+        "page": 67
+      }
+    ]
+  },
+  "democracia": {
+    "status": "covered",
+    "answer": "O plano de Flávio afirma que a reforma política será prioridade, com foco em partidos com nitidez programática, maior representatividade e proximidade entre eleitor e eleito. Propõe o fim da reeleição para Presidente da República, citando PEC já protocolada pelo próprio candidato no Senado. Também propõe reformar o Judiciário para \"restabelecer o equilíbrio entre os Poderes\".",
+    "points": [
+      {
+        "text": "Fim da reeleição para Presidente da República",
+        "page": 66
+      },
+      {
+        "text": "Reforma política com foco em representatividade e nitidez programática dos partidos",
+        "page": 66
+      }
+    ],
+    "quotes": [
+      {
+        "text": "E propomos o fim da reeleição para o cargo de Presidente da República.",
+        "page": 66
+      },
+      {
+        "text": "O foco deve ser a representatividade e a proximidade entre o eleitor e o eleito",
+        "page": 66
+      }
+    ]
+  },
+  "corrupcao": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe combater a corrupção organizando o Estado para preveni-la: fortalecer a Lei das Estatais, preencher o comando de estatais por recrutamento com regras de mercado e blindar fundos de pensão de indicações políticas. Prevê ainda transparência sobre cada gasto, avaliação de políticas públicas, rastreabilidade das emendas parlamentares e retomada da adesão à OCDE, que o documento associa à redução da corrupção.",
+    "points": [
+      {
+        "text": "Fortalecer a Lei das Estatais",
+        "page": 70
+      },
+      {
+        "text": "Recrutamento com regras de mercado para comando de estatais",
+        "page": 70
+      },
+      {
+        "text": "Blindar fundos de pensão das estatais da indicação política",
+        "page": 70
+      },
+      {
+        "text": "Transparência e rastreabilidade das emendas parlamentares",
+        "page": 69
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Comando técnico no lugar do apadrinhamento, estatais e fundos de pensão protegidos da indicação política e transparência sobre cada gasto são medidas que fecham as portas ao desvio.",
+        "page": 70
+      },
+      {
+        "text": "Vamos blindar os fundos de pensão das estatais da indicação política, porque a aposentadoria do trabalhador não pode virar cofre de projeto de poder.",
+        "page": 70
+      }
+    ]
+  },
+  "privatizacoes": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe retomar o Programa Nacional de Desestatização \"com critério\", avaliando caso a caso onde a presença do Estado deixou de fazer sentido. Prevê fortalecer a Lei das Estatais e profissionalizar a gestão das empresas públicas, e dar à CAIXA a missão de \"Banco da Prosperidade\". Petrobras e Correios não são citados nominalmente.",
+    "points": [
+      {
+        "text": "Retomar o Programa Nacional de Desestatização, caso a caso",
+        "page": 70
+      },
+      {
+        "text": "Comando das estatais por recrutamento com regras de mercado",
+        "page": 70
+      },
+      {
+        "text": "CAIXA como Banco da Prosperidade: crédito, orientação e habitação",
+        "page": 46
+      }
+    ],
+    "quotes": [
+      {
+        "text": "E vamos retomar o Programa Nacional de Desestatização com critério, avaliando caso a caso onde a presença do Estado deixou de fazer sentido.",
+        "page": 70
+      }
+    ]
+  },
+  "tamanho-do-estado": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe continuar a reforma administrativa, cortar no mínimo 10 ministérios, reduzir cargos comissionados e despesas administrativas e combater supersalários. Contra a burocracia, prevê um \"Tesouraço da Burocracia\", digitalização de 100% dos serviços federais passíveis de digitalização, revogaço regulatório e licença ambiental concedida se o órgão não decidir no prazo. Defende também a revisão do pacto federativo, sob o lema \"Mais Brasil, menos Brasília\".",
+    "points": [
+      {
+        "text": "Corte de no mínimo 10 ministérios e redução de cargos comissionados",
+        "page": 69
+      },
+      {
+        "text": "Continuar a reforma administrativa e revisão normativa infralegal",
+        "page": 69
+      },
+      {
+        "text": "Digitalizar 100% dos serviços federais passíveis de digitalização",
+        "page": 25
+      },
+      {
+        "text": "Revogaço regulatório revisando normas obsoletas",
+        "page": 27
+      },
+      {
+        "text": "Revisão do pacto federativo e das regras orçamentárias",
+        "page": 69
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Isso inclui o corte de no mínimo 10 ministérios, a redução de cargos comissionados e de despesas administrativas e o combate aos penduricalhos e supersalários que corroem o orçamento",
+        "page": 69
+      }
+    ]
+  },
+  "previdencia": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe reeditar um pacote antifraude na Previdência nos moldes da MP de 2019 e mudar a governança do consignado de beneficiários do INSS, com dupla checagem de descontos. Para a fila do INSS, prevê investir em tecnologia, digitalizar processos e profissionalizar a gestão do órgão. O documento não propõe mudanças nas regras de aposentadoria.",
+    "points": [
+      {
+        "text": "Reeditar pacote antifraude na Previdência",
+        "page": 72
+      },
+      {
+        "text": "Nova governança do consignado do INSS com dupla checagem",
+        "page": 72
+      },
+      {
+        "text": "Digitalizar processos do INSS e profissionalizar sua gestão",
+        "page": 26
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Reeditaremos um pacote antifraude na Previdência, nos moldes do que fizemos em 2019",
+        "page": 72
+      },
+      {
+        "text": "Vamos investir em tecnologia e digitalizar os processos do INSS, dando continuidade ao caminho do Meu INSS, e profissionalizar a gestão do órgão.",
+        "page": 26
+      }
+    ]
+  },
+  "moradia": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe retomar o Casa Verde e Amarela com meta de 2,5 milhões de residências, regularização fundiária e urbanização de áreas degradadas. No saneamento, prevê garantir a plena aplicação do Marco Legal do Saneamento, acelerar concessões, nenhuma escola sem água até 2030 e o Programa Lixão Zero. Na mobilidade urbana, os bancos públicos priorizariam metrô, trilhos e ônibus elétricos ou a biocombustíveis.",
+    "points": [
+      {
+        "text": "Retomar Casa Verde e Amarela com meta de 2,5 milhões de residências",
+        "page": 47
+      },
+      {
+        "text": "Plena aplicação do Marco Legal do Saneamento e saneamento rural",
+        "page": 47
+      },
+      {
+        "text": "Nenhuma escola sem água até 2030 e meta do Lixão Zero",
+        "page": 47
+      },
+      {
+        "text": "Bancos públicos priorizam metrô, trilhos e ônibus elétricos ou a biocombustíveis",
+        "page": 51
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Vamos retomar o Casa Verde e Amarela, com meta de 2,5 milhões de residências e a menor taxa de juros possível no financiamento.",
+        "page": 47
+      }
+    ]
+  },
+  "agro": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe ampliar o Seguro Rural, securitizar e reorganizar dívidas do setor, ampliar a armazenagem e apoiar a produção nacional de fertilizantes. Para o pequeno produtor, prevê acelerar a regularização fundiária e a titulação, simplificar outorgas de irrigação e um sistema único de rastreabilidade. Também propõe buscar soluções diplomáticas contra sanções de EUA, China e Europa e ampliar a área irrigada, com polos no Matopiba e no semiárido.",
+    "points": [
+      {
+        "text": "Ampliar Seguro Rural e securitização das dívidas do setor",
+        "page": 54
+      },
+      {
+        "text": "Regularização e titulação do pequeno proprietário rural",
+        "page": 54
+      },
+      {
+        "text": "Simplificar outorgas de irrigação e criar polos no Matopiba e semiárido",
+        "page": 55
+      },
+      {
+        "text": "Rastreabilidade completa das cadeias produtivas em um só sistema",
+        "page": 28
+      },
+      {
+        "text": "Soluções diplomáticas contra sanções de EUA, China e Europa",
+        "page": 54
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Vamos ampliar o Seguro Rural e trazer ferramentas de securitização e reorganização das dívidas do setor",
+        "page": 54
+      }
+    ]
+  },
+  "mst-terra": {
+    "status": "partial",
+    "answer": "O plano de governo de Flávio não menciona o MST, invasões de terra ou reforma agrária. O conteúdo relacionado é o compromisso com segurança jurídica \"sem margem para relativizações do direito de propriedade\", a titulação de pequenos proprietários rurais e o combate à grilagem e à ocupação ilegal de áreas públicas.",
+    "points": [
+      {
+        "text": "Segurança jurídica do direito de propriedade no campo",
+        "page": 54
+      },
+      {
+        "text": "Ampla regularização e titulação do pequeno proprietário rural",
+        "page": 54
+      },
+      {
+        "text": "Combater grilagem e ocupação ilegal de áreas públicas",
+        "page": 58
+      }
+    ],
+    "quotes": [
+      {
+        "text": "E traremos segurança jurídica sólida, irreversível e sem margem para relativizações do direito de propriedade, porque ninguém planta e investe no que teme perder.",
+        "page": 54
+      }
+    ]
+  },
+  "meio-ambiente": {
+    "status": "covered",
+    "answer": "O plano de Flávio estabelece a meta de zerar o desmatamento ilegal até 2029 e combater queimadas ilegais com monitoramento por satélite e inteligência artificial. Propõe consolidar o mercado regulado de carbono, ampliar pagamento por serviços ambientais, impulsionar a bioeconomia e eliminar superposições entre Ibama, Funai e ICMBio. Na Amazônia, prevê focar a fiscalização em organizações criminosas, não tratar o morador da floresta como criminoso e exigir transparência de financiadores de ONGs com recursos internacionais.",
+    "points": [
+      {
+        "text": "Zerar o desmatamento ilegal até 2029",
+        "page": 58
+      },
+      {
+        "text": "Consolidar o mercado regulado de carbono",
+        "page": 57
+      },
+      {
+        "text": "Ampliar pagamento por serviços ambientais",
+        "page": 57
+      },
+      {
+        "text": "Eliminar superposições entre Ibama, Funai e ICMBio",
+        "page": 59
+      },
+      {
+        "text": "Exigir transparência de financiadores de ONGs com recursos internacionais",
+        "page": 59
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Teremos a meta de zerar o desmatamento ilegal até 2029, retomando e levando até o fim o compromisso que já assumimos no Governo Bolsonaro perante o mundo",
+        "page": 58
+      },
+      {
+        "text": "O rigor da fiscalização será dirigido a quem comanda o crime organizado, não a quem vive na floresta.",
+        "page": 59
+      }
+    ]
+  },
+  "indigenas": {
+    "status": "partial",
+    "answer": "O plano de Flávio propõe conferir autonomia aos povos indígenas e quilombolas para decidir sobre atividades produtivas em suas terras, com respeito às regras ambientais e indenização de eventuais restrições ao usufruto. O plano de governo de Flávio não menciona demarcação de terras indígenas nem o marco temporal. Também propõe eliminar superposições entre Ibama, Funai e ICMBio.",
+    "points": [
+      {
+        "text": "Autonomia de indígenas e quilombolas para decidir atividades produtivas em suas terras",
+        "page": 50
+      },
+      {
+        "text": "Indenização de restrições ao usufruto e mecanismos de compensação",
+        "page": 50
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Será conferida autonomia aos povos indígenas e quilombolas para decidir sobre atividades produtivas em suas terras, com respeito ao desenvolvimento sustentável e às regras ambientais",
+        "page": 50
+      }
+    ]
+  },
+  "energia": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe um Programa Nacional de Segurança Energética com foco em refino, escoamento de combustíveis e gás, e permissão da exploração de gás não convencional (fracking) \"com responsabilidade ambiental\". Prevê simplificar a conta de luz, reduzir impostos sobre energia e combustíveis, expandir a rede de gás e a transmissão e criar programa de armazenamento em baterias. Também propõe tornar o Brasil polo de data centers e potência em biocombustíveis, ampliando o RenovaBio.",
+    "points": [
+      {
+        "text": "Programa Nacional de Segurança Energética com foco em refino e escoamento",
+        "page": 52
+      },
+      {
+        "text": "Permitir exploração de gás não convencional (fracking)",
+        "page": 52
+      },
+      {
+        "text": "Reduzir impostos sobre energia elétrica e combustíveis",
+        "page": 31
+      },
+      {
+        "text": "Armazenamento de energia com baterias e polo de data centers",
+        "page": 53
+      },
+      {
+        "text": "Potência em biocombustíveis e ampliação do Renovabio",
+        "page": 53
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Nosso objetivo é a segurança energética total ao menor preço possível para o consumidor.",
+        "page": 52
+      },
+      {
+        "text": "permitir a exploração do gás não convencional (fracking) com responsabilidade ambiental e cumprindo a lei",
+        "page": 52
+      }
+    ]
+  },
+  "politica-externa": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe uma diplomacia \"guiada pelo profissionalismo e pelo pragmatismo\", com o Itamaraty conduzido por competência técnica, e afirma que vai reverter o desgaste nas relações com Argentina, Estados Unidos e Israel. Diz que negociará com todos os parceiros de interesse, \"da China à União Europeia\", e critica o atual governo por ter recebido Nicolás Maduro e aproximado o Brasil do Irã. Prevê ainda retomar a adesão à OCDE e um plano de integração às cadeias globais de valor.",
+    "points": [
+      {
+        "text": "Itamaraty conduzido por competência técnica e diplomacia pragmática",
+        "page": 62
+      },
+      {
+        "text": "Reverter desgaste com Argentina, Estados Unidos e Israel",
+        "page": 62
+      },
+      {
+        "text": "Negociar com China, União Europeia, EUA e mercados asiáticos",
+        "page": 62
+      },
+      {
+        "text": "Retomar cronograma de adesão à OCDE",
+        "page": 63
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Nossa proposta é o oposto: uma diplomacia guiada pelo profissionalismo e pelo pragmatismo, não pela ideologia.",
+        "page": 62
+      },
+      {
+        "text": "Nos últimos anos, as relações com países como Argentina, Estados Unidos e Israel foram levadas ao limite do rompimento.",
+        "page": 62
+      }
+    ]
+  },
+  "tecnologia": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe uma Estratégia Nacional de Inteligência Artificial para difundir IA em micro, pequenas e médias empresas, elevar a participação brasileira em patentes de IA e uma legislação \"voltada à liberdade de criar e inovar\". Prevê pacotes de conexão à internet, conectividade em escolas e áreas rurais, digitalização total dos serviços federais com identidade digital única e assistentes de IA. Também propõe fortalecer a defesa cibernética e a proteção de dados do cidadão.",
+    "points": [
+      {
+        "text": "Estratégia Nacional de IA para micro, pequenas e médias empresas",
+        "page": 56
+      },
+      {
+        "text": "Legislação voltada à liberdade de criar e inovar",
+        "page": 56
+      },
+      {
+        "text": "Pacotes de conexão e conectividade em escolas, áreas rurais e fronteiras",
+        "page": 24
+      },
+      {
+        "text": "Identidade digital única integrada ao Gov.br",
+        "page": 25
+      },
+      {
+        "text": "Fortalecer a defesa cibernética e a privacidade dos dados",
+        "page": 57
+      }
+    ],
+    "quotes": [
+      {
+        "text": "A Estratégia Nacional de Inteligência Artificial vai difundir a IA para as micro, pequenas e médias empresas em larga escala, com prioridade para indústria, agronegócio, saúde e logística.",
+        "page": 56
+      }
+    ]
+  },
+  "pequenas-empresas": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe o programa Minha Primeira Empresa, com menos burocracia para abrir e formalizar o negócio, capacitação pelo Sistema S e uma esteira de crédito da CAIXA. Prevê levar o modelo da Lei de Liberdade Econômica a todos os estados e municípios, um revogaço regulatório e apoio à internacionalização de pequenas e médias empresas via BNDES e Apex-Brasil. Inclui ainda o programa Ganha-Ganha, de adesão voluntária, que converte boas práticas em crédito e juros menores.",
+    "points": [
+      {
+        "text": "Minha Primeira Empresa: abertura simplificada, Sistema S e crédito CAIXA",
+        "page": 45
+      },
+      {
+        "text": "Levar a liberdade econômica a cada estado e município",
+        "page": 27
+      },
+      {
+        "text": "Internacionalização de pequenas e médias empresas via BNDES e Apex-Brasil",
+        "page": 46
+      },
+      {
+        "text": "Ganha-Ganha: histórico positivo que gera crédito e juros menores",
+        "page": 46
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Para quem está começando, vamos criar o Minha Primeira Empresa: menos burocracia para abrir e formalizar o negócio, capacitação e orientação pelo Sistema S",
+        "page": 45
+      }
+    ]
+  },
+  "criancas-cuidado": {
+    "status": "covered",
+    "answer": "O plano de Flávio propõe ampliar creches em período integral e oferecer voucher-creche para a rede privada credenciada onde faltar vaga pública, além de uma Rede Nacional de Cuidado com centros-dia e atendimento domiciliar para idosos e pessoas com deficiência. Para idosos, prevê o Casa Segura para Envelhecer, aplicativo de companhia com alertas e ampliação de instituições de longa permanência. Também propõe Centros de Referência em Transtorno do Espectro Autista e ampliação da saúde mental, incluindo diagnóstico de TDAH.",
+    "points": [
+      {
+        "text": "Ampliar creches em período integral e voucher-creche",
+        "page": 21
+      },
+      {
+        "text": "Rede Nacional de Cuidado com centros-dia e atendimento domiciliar",
+        "page": 21
+      },
+      {
+        "text": "Casa Segura para Envelhecer com subsídio à acessibilidade",
+        "page": 39
+      },
+      {
+        "text": "Ampliar instituições de longa permanência para idosos",
+        "page": 39
+      },
+      {
+        "text": "Centros de Referência em Transtorno do Espectro Autista",
+        "page": 39
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Onde não houver vaga na rede pública, a família receberá um voucher-creche para acesso à rede privada credenciada até a vaga pública surgir",
+        "page": 21
+      }
+    ]
+  },
+  "cultura-esporte": {
+    "status": "covered",
+    "answer": "Na cultura, o plano de Flávio propõe preservar o patrimônio histórico, valorizar tradições brasileiras e aperfeiçoar as leis de incentivo para favorecer polos regionais e artistas de menor projeção. No esporte, prevê o Programa Escola de Campeões, com esporte competitivo nas escolas via parcerias público-privadas, aperfeiçoamento das bolsas esportivas com patrocínio privado e apoio ao paradesporto. Também propõe que a categoria feminina seja disputada apenas por atletas do sexo feminino.",
+    "points": [
+      {
+        "text": "Aperfeiçoar leis de incentivo favorecendo polos regionais",
+        "page": 41
+      },
+      {
+        "text": "Preservar patrimônio histórico, centros históricos e acervos",
+        "page": 41
+      },
+      {
+        "text": "Programa Escola de Campeões com esporte competitivo nas escolas",
+        "page": 40
+      },
+      {
+        "text": "Detecção de talentos paralímpicos e apoio ao paradesporto",
+        "page": 40
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Na Cultura, valorizaremos as tradições brasileiras e aperfeiçoaremos as leis de incentivo, corrigindo distorções e favorecendo o desenvolvimento de outros polos regionais.",
+        "page": 41
+      },
+      {
+        "text": "Vamos criar o Programa Escola de Campeões, com parcerias públicoprivadas para levar o esporte competitivo às escolas",
+        "page": 40
+      }
+    ]
+  }
+}

@@ -1,0 +1,558 @@
+{
+  "economia": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe elevar a taxa de investimento da economia, ampliando investimentos em infraestrutura logística e social e incentivando investimentos privados na indústria com foco em inovação. Prevê aprimorar a neoindustrialização por meio da Nova Indústria Brasil, com foco em inovação, inteligência artificial e minerais críticos, e uma nova edição do Novo PAC. O documento também defende criar condições para uma redução sustentada dos juros, com inflação controlada e política fiscal responsável.",
+    "points": [
+      { "text": "Elevar a taxa de investimento, com foco em infraestrutura logística e social", "page": 48 },
+      { "text": "Aprimorar e fortalecer a neoindustrialização via Nova Indústria Brasil (NIB)", "page": 50 },
+      { "text": "Política específica para minerais críticos e terras raras, evitando exportar só matéria-prima", "page": 52 },
+      { "text": "Nova edição do Novo PAC, com obras públicas e concessões de rodovias e ferrovias", "page": 53 },
+      { "text": "Aprofundar o mercado de capitais doméstico e ampliar investidores institucionais de longo prazo", "page": 49 }
+    ],
+    "quotes": [
+      { "text": "Vamos assegurar que a política econômica siga promovendo o crescimento e que ele continue se traduzindo em melhoria real das condições de vida da população.", "page": 48 },
+      { "text": "No próximo ciclo governamental, nosso objetivo central será aprimorar e fortalecer a neoindustrialização, repensando o papel da indústria no Brasil a partir das prioridades da sociedade", "page": 50 }
+    ]
+  },
+  "contas-publicas": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe manter o novo arcabouço fiscal, que, segundo o documento, controlou o crescimento das despesas sem prejudicar as políticas sociais. O resultado fiscal viria da retomada do crescimento, do controle do aumento do gasto primário, da melhoria da eficiência do gasto, da justiça tributária e do combate a privilégios. O texto também propõe debater com a sociedade o atual sistema de emendas parlamentares, que considera uma distorção do orçamento federal.",
+    "points": [
+      { "text": "Manter o novo arcabouço fiscal", "page": 49 },
+      { "text": "Controlar o aumento do gasto primário e melhorar a eficiência e qualidade do gasto", "page": 49 },
+      { "text": "Debater com a sociedade o sistema de emendas parlamentares", "page": 16 },
+      { "text": "Ampliar o compartilhamento de serviços de suporte entre ministérios para racionalizar recursos", "page": 17 }
+    ],
+    "quotes": [
+      { "text": "manteremos o novo arcabouço fiscal, que controlou o crescimento das despesas sem prejudicar as políticas sociais e permitiu uma redução significativa do déficit primário.", "page": 49 },
+      { "text": "O resultado fiscal virá, como fizemos até aqui, da retomada do crescimento econômico, do controle do aumento do gasto primário, investindo na melhoria da eficiência e da qualidade do gasto público", "page": 49 }
+    ]
+  },
+  "impostos": {
+    "status": "covered",
+    "answer": "O plano de Lula cita como base a reforma tributária do consumo e a isenção de Imposto de Renda para quem ganha até R$ 5.000, aprovadas no atual mandato. Para o próximo período, propõe consolidar a reforma tributária, regulamentar o Fundo Nacional de Desenvolvimento Regional e usar o Imposto Seletivo para desestimular produtos nocivos à saúde. O documento também menciona assegurar tratamento tributário justo às pequenas empresas na implementação da reforma e defende a justiça tributária como instrumento de combate às desigualdades.",
+    "points": [
+      { "text": "Regulamentar o Imposto Seletivo para desestimular produtos nocivos à saúde", "page": 59 },
+      { "text": "Regulamentar o Fundo Nacional de Desenvolvimento Regional criado na reforma tributária", "page": 56 },
+      { "text": "Tratamento tributário justo para pequenas empresas na implementação da reforma", "page": 57 },
+      { "text": "Justiça tributária e combate a privilégios como fonte de resultado fiscal", "page": 49 }
+    ],
+    "quotes": [
+      { "text": "Aprovamos a reforma tributária do consumo e isentamos de imposto de renda todos os que ganham até R$ 5.000, compromisso assumido na campanha de 2022", "page": 19 },
+      { "text": "Ao regulamentar a reforma tributária, vamos, por meio do Imposto Seletivo, desestimular produtos nocivos à saúde.", "page": 59 }
+    ]
+  },
+  "custo-de-vida": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe manter a inflação sob controle e criar condições para uma redução sustentada das taxas de juros. Na energia, prevê promover um debate sobre o barateamento da energia elétrica para consumidores residenciais e empresas e continuar atuando para mitigar a volatilidade dos preços internacionais de combustíveis. Para alimentos, menciona a expansão do Plano Safra da Agricultura Familiar com prioridade para a cesta básica e a continuidade do monitoramento do endividamento das famílias.",
+    "points": [
+      { "text": "Manter inflação sob controle, com renda real crescendo acima do custo de vida", "page": 49 },
+      { "text": "Criar condições para redução sustentada das taxas de juros", "page": 49 },
+      { "text": "Debater o barateamento da energia elétrica para residências e empresas", "page": 65 },
+      { "text": "Mitigar a volatilidade dos preços internacionais de combustíveis", "page": 66 },
+      { "text": "Plano Safra da Agricultura Familiar com prioridade a alimentos da cesta básica", "page": 59 }
+    ],
+    "quotes": [
+      { "text": "Manteremos a inflação sob controle de forma duradoura e sustentável, garantindo que a renda real da população cresça acima do custo de vida.", "page": 49 },
+      { "text": "Um debate importante a ser promovido no próximo período refere-se ao barateamento da energia elétrica para os consumidores residenciais e as", "page": 65 }
+    ]
+  },
+  "emprego": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe fortalecer o Sistema Público de Emprego, Trabalho e Renda e expandir, na rede SINE, uma plataforma pública de empregabilidade com inteligência artificial. Prevê consolidar um sistema de proteção para trabalhadores de plataformas digitais, combater a 'pejotização espúria' e alterar regras da legislação trabalhista que, segundo o texto, induzem à precarização. O documento também menciona integrar crédito público, incentivos fiscais e compras governamentais a compromissos de geração de empregos de qualidade.",
+    "points": [
+      { "text": "Expandir no SINE a Plataforma Pública Nacional de Empregabilidade com IA", "page": 74 },
+      { "text": "Sistema de proteção a trabalhadores da economia digital e de plataformas", "page": 74 },
+      { "text": "Combater a pejotização espúria com fiscalização e inspeção do trabalho", "page": 74 },
+      { "text": "Aprimorar a legislação trabalhista e retomar assistência sindical nas homologações", "page": 75 },
+      { "text": "Estimular ocupações sociais em atividades de interesse coletivo", "page": 74 }
+    ],
+    "quotes": [
+      { "text": "Queremos consolidar um sistema de proteção aos trabalhadores na economia", "page": 74 },
+      { "text": "Vamos aprimorar a legislação trabalhista, alterando regras que induzem a precarização das condições de trabalho, os marcos regressivos contidos na legislação, as fraudes presentes em muitas terceirizações", "page": 75 }
+    ]
+  },
+  "escala-6x1": {
+    "status": "covered",
+    "answer": "O plano de Lula afirma que manterá a atuação junto ao Senado Federal para assegurar o fim da escala 6x1 e a redução da jornada de trabalho para 40 horas semanais, sem redução salarial, nos termos aprovados na Câmara dos Deputados. O documento também expressa o objetivo de uma jornada 'mais humana'.",
+    "points": [
+      { "text": "Fim da escala 6x1", "page": 75 },
+      { "text": "Redução da jornada para 40 horas sem redução salarial", "page": 75 },
+      { "text": "Atuação junto ao Senado nos termos aprovados pela Câmara", "page": 75 }
+    ],
+    "quotes": [
+      { "text": "Manteremos nossa ação junto ao Senado Federal para assegurar o fim da escala 6x1 e a redução da jornada de trabalho para 40 horas, sem redução salarial, nos termos aprovados na Câmara dos Deputados.", "page": 75 }
+    ]
+  },
+  "salario-minimo": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe dar continuidade à política de valorização do salário mínimo, descrita como meio estratégico de distribuição de renda, combate à pobreza e promoção do desenvolvimento. O documento cita como base a retomada dessa política no atual mandato, que, segundo o texto, assegurou aumento real todos os anos, beneficiando também aposentados e beneficiários do BPC.",
+    "points": [
+      { "text": "Continuidade da política de valorização do salário mínimo", "page": 74 },
+      { "text": "Aumento real anual do piso, conforme política retomada no atual mandato", "page": 73 }
+    ],
+    "quotes": [
+      { "text": "o novo mandato de Lula dará continuidade à política de valorização do salário mínimo como meio estratégico de distribuição de renda, combate à pobreza e promoção do desenvolvimento econômico e social.", "page": 74 }
+    ]
+  },
+  "programas-sociais": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe manter, aperfeiçoar e ampliar as políticas de proteção social para quem mais necessita, citando como base a recriação e expansão do Bolsa Família. Prevê fortalecer o SUAS, com mais recursos e expansão da rede de atendimento, e integrá-lo à agenda de enfrentamento a desastres climáticos. O documento também menciona o enfrentamento da pobreza infantil e o fortalecimento da Política Nacional de Cuidados, com apoio a Cuidotecas, cozinhas solidárias e restaurantes populares.",
+    "points": [
+      { "text": "Manter, aperfeiçoar e ampliar as políticas de proteção social", "page": 18 },
+      { "text": "Fortalecer a Proteção Social Básica e Especial do SUAS", "page": 25 },
+      { "text": "Integrar o SUAS ao enfrentamento de mudanças climáticas e desastres", "page": 25 },
+      { "text": "Enfrentamento da pobreza infantil", "page": 24 },
+      { "text": "Apoio a Cuidotecas, lavanderias públicas, cozinhas solidárias e restaurantes populares", "page": 26 }
+    ],
+    "quotes": [
+      { "text": "Por isso, devemos manter, aperfeiçoar e ampliar as políticas de proteção social para quem mais necessita.", "page": 18 },
+      { "text": "No próximo mandato, avançaremos ainda mais no fortalecimento da Proteção Social Básica e da Proteção Social Especial de média e alta complexidade", "page": 25 }
+    ]
+  },
+  "saude": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe ampliar o programa Agora tem Especialistas, com terceiro turno, Carretas da Saúde e mutirões para reduzir filas, e criar uma fila única digital ordenada por risco clínico com uso de inteligência artificial. Prevê manter a Farmácia Popular 100% gratuita, incluindo exames laboratoriais, consolidar o prontuário único do cidadão e manter o Mais Médicos. O documento também prevê consolidar uma rede pública de cuidado ao câncer e ampliar investimentos em saúde mental e vacinação.",
+    "points": [
+      { "text": "Fila única digital para atenção especializada, ordenada por risco clínico com IA", "page": 38 },
+      { "text": "Farmácia Popular mantida 100% gratuita, incluindo exames laboratoriais", "page": 36 },
+      { "text": "Prontuário único do cidadão e marcação de consultas pelo celular", "page": 35 },
+      { "text": "Terceiro turno, Carretas da Saúde e mutirões para ampliar consultas e cirurgias", "page": 37 },
+      { "text": "Ampliar investimentos na Rede de Atenção Psicossocial e nos CAPS", "page": 39 }
+    ],
+    "quotes": [
+      { "text": "Aprimoraremos ainda mais a regulação do acesso à atenção especializada, garantindo maior transparência das filas e utilizando inteligência artificial, com fila única digital e ordenada pelo risco clínico", "page": 38 },
+      { "text": "O programa será mantido, 100% gratuito, assegurando contínua revisão dos medicamentos ofertados e a continuidade da distribuição de fraldas geriátricas.", "page": 36 }
+    ]
+  },
+  "educacao": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe cumprir as metas do Plano Nacional de Educação 2026-2036, chegar a 80% das crianças alfabetizadas na idade certa e dar 'absoluta prioridade' à expansão da educação em tempo integral. Prevê universalizar a internet de qualidade nas escolas, manter e fortalecer o Pé-de-Meia, manter o Piso Nacional do Magistério e continuar a expansão dos institutos federais e do ensino superior público, com prioridade à interiorização.",
+    "points": [
+      { "text": "Meta de 80% das crianças alfabetizadas na idade certa", "page": 31 },
+      { "text": "Absoluta prioridade à expansão da educação em tempo integral", "page": 31 },
+      { "text": "Universalizar internet de qualidade nas escolas", "page": 32 },
+      { "text": "Manter e fortalecer o Pé-de-Meia e o Piso Nacional do Magistério", "page": 32 },
+      { "text": "Expansão e interiorização dos institutos federais e do ensino superior público", "page": 33 }
+    ],
+    "quotes": [
+      { "text": "Seguiremos com as ações e políticas já pactuadas com os estados e municípios brasileiros para chegarmos à meta de 80% das nossas crianças alfabetizadas na idade certa.", "page": 31 },
+      { "text": "O fomento à expansão da educação em tempo integral terá absoluta prioridade no novo mandato.", "page": 31 }
+    ]
+  },
+  "escolas-civico-militares": {
+    "status": "not_found",
+    "answer": "O plano de governo de Lula não menciona escolas cívico-militares. As propostas para a educação básica tratam de alfabetização, educação em tempo integral, conectividade nas escolas e valorização docente, sem referência a esse modelo.",
+    "points": [],
+    "quotes": []
+  },
+  "seguranca-publica": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe criar o Ministério da Segurança Pública após a aprovação da PEC da Segurança Pública enviada pelo Executivo, para coordenar o Sistema Único de Segurança Pública (SUSP) com estados e municípios. Prevê fortalecer o Programa Brasil Contra o Crime Organizado, qualificar a investigação de homicídios, ampliar o estímulo ao uso de câmeras corporais e construir programas de policiamento de proximidade. O documento também menciona políticas de prevenção à violência com foco na juventude negra e a expansão do Programa Celular Seguro.",
+    "points": [
+      { "text": "Criar o Ministério da Segurança Pública após aprovação da PEC da Segurança", "page": 30 },
+      { "text": "Fortalecer o Programa Brasil Contra o Crime Organizado, com R$ 10 bilhões do FIIS", "page": 27 },
+      { "text": "Ampliar estímulos ao uso de câmeras corporais com padrões nacionais", "page": 30 },
+      { "text": "Programas de policiamento de proximidade com os entes federados", "page": 30 },
+      { "text": "Expandir o Programa Celular Seguro e combater redes de receptação", "page": 29 }
+    ],
+    "quotes": [
+      { "text": "Uma vez aprovada a PEC da Segurança Pública proposta pelo Executivo, criaremos o Ministério da Segurança Pública para coordenar, em articulação com estados e municípios, a execução das políticas nacionais de segurança pública", "page": 30 },
+      { "text": "A segurança pública é prioridade nacional e exige coordenação federativa, integração de dados, inteligência, prevenção, repressão qualificada e políticas", "page": 26 }
+    ]
+  },
+  "faccoes": {
+    "status": "covered",
+    "answer": "O plano de Lula não cita nominalmente PCC ou Comando Vermelho, mas trata de facções e milícias. Menciona a Lei Antifacção, sancionada em 2026, e propõe manter a estratégia de asfixia financeira do crime organizado e das milícias, retomar territórios e fortalecer o sistema penitenciário federal para isolar lideranças criminosas. Prevê ainda medidas rígidas para barrar candidaturas de pessoas ligadas ao crime organizado e a urbanização de favelas e periferias para reduzir mercados explorados pelo crime.",
+    "points": [
+      { "text": "Asfixia financeira do crime organizado e das milícias", "page": 27 },
+      { "text": "Barrar candidaturas de indivíduos ligados ao crime organizado", "page": 27 },
+      { "text": "Ampliar o sistema penitenciário federal para isolar lideranças criminosas", "page": 28 },
+      { "text": "Retomada de territórios em cooperação com estados e municípios", "page": 27 },
+      { "text": "Urbanização de favelas e periferias para reduzir mercados do crime", "page": 28 }
+    ],
+    "quotes": [
+      { "text": "Com a Lei Antifacção, sancionada em 2026, ampliamos nossa capacidade de enfrentar o crime organizado, as milícias e as redes criminosas que alimentam mercados ilícitos, crimes financeiros, corrupção e violência.", "page": 27 },
+      { "text": "Fortaleceremos o sistema penitenciário federal, ampliando sua capacidade operacional e de isolamento de lideranças criminosas", "page": 28 }
+    ]
+  },
+  "crime-organizado": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe enfrentar o crime organizado pela desarticulação de suas estruturas econômicas e financeiras, mantendo a estratégia de asfixia financeira e ampliando as Forças Integradas de Combate ao Crime Organizado (FICCOs). Prevê enfrentar o tráfico de armas, munições e explosivos, manter as Forças Armadas nas fronteiras amazônicas e tornar obrigatória a investigação financeira nas ações contra organizações ligadas à mineração ilegal. O documento também propõe reforçar o combate a crimes financeiros e cibernéticos e ao crime organizado transnacional nas fronteiras.",
+    "points": [
+      { "text": "Manter a asfixia financeira das organizações criminosas", "page": 27 },
+      { "text": "Ampliar as FICCOs e consolidá-las como política de Estado", "page": 29 },
+      { "text": "Forças Armadas nas fronteiras amazônicas com patrulhamento fluvial e aéreo", "page": 29 },
+      { "text": "Investigação financeira obrigatória contra organizações da mineração ilegal", "page": 29 },
+      { "text": "Procedimentos jurídicos mais ágeis para punir esses crimes", "page": 27 }
+    ],
+    "quotes": [
+      { "text": "O crime organizado deve ser enfrentado com firmeza, nos marcos da Constituição e do Estado Democrático de Direito, por meio da desarticulação de suas estruturas econômicas e financeiras.", "page": 27 },
+      { "text": "Manteremos a estratégia de asfixia financeira do crime organizado por meio de ações articuladas, que já permitiu, desde 2023, causar R$ 35,8 bilhões de prejuízos às organizações criminosas.", "page": 27 }
+    ]
+  },
+  "pena-de-morte": {
+    "status": "not_found",
+    "answer": "O plano de governo de Lula não menciona pena de morte nem prisão perpétua. O documento não trata de mudanças no tipo ou na duração das penas.",
+    "points": [],
+    "quotes": []
+  },
+  "maioridade-penal": {
+    "status": "not_found",
+    "answer": "O plano de governo de Lula não menciona a redução da maioridade penal. O documento trata de adolescentes em temas como proteção digital, combate a crimes contra crianças e adolescentes e prevenção da violência entre jovens, sem abordar a idade de responsabilização penal.",
+    "points": [],
+    "quotes": []
+  },
+  "presidios": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe cumprir as metas do Plano Pena Justa e instituir o Pacto Nacional de Execução Penal para o Enfrentamento ao Crime Organizado. Prevê fortalecer o sistema penitenciário federal para isolar lideranças criminosas, implantar um protocolo nacional de classificação e transferência de presos de alta periculosidade e apoiar os estados na modernização das penitenciárias. O documento não menciona a 'saidinha' nem regras de progressão de pena.",
+    "points": [
+      { "text": "Cumprir as metas do Plano Pena Justa", "page": 28 },
+      { "text": "Instituir o Pacto Nacional de Execução Penal contra o crime organizado", "page": 28 },
+      { "text": "Protocolo nacional de classificação e transferência de presos de alta periculosidade", "page": 28 },
+      { "text": "Apoiar estados com padrões nacionais de gestão das penitenciárias", "page": 28 }
+    ],
+    "quotes": [
+      { "text": "Cumpriremos as metas do Plano Pena Justa e instituiremos o Pacto Nacional de Execução Penal para o Enfrentamento ao Crime Organizado, fortalecendo a governança do sistema prisional", "page": 28 }
+    ]
+  },
+  "armas": {
+    "status": "covered",
+    "answer": "O plano de Lula afirma que a revogação dos decretos do governo anterior que facilitavam o acesso a armas de fogo foi 'uma medida acertada' e propõe manter uma política de controle de armas e munições. Prevê aprimorar a rastreabilidade de armas e munições e reforçar a fiscalização da Polícia Federal e do Exército sobre empresas de segurança privada e registros de caçadores, atiradores e colecionadores (CACs). Também menciona o enfrentamento ao tráfico de armas e munições.",
+    "points": [
+      { "text": "Manter política de controle de armas e munições", "page": 28 },
+      { "text": "Aprimorar rastreabilidade de armas e munições", "page": 28 },
+      { "text": "Reforçar fiscalização da PF e do Exército sobre registros de CACs", "page": 28 },
+      { "text": "Enfrentar o tráfico de armas, munições, acessórios e explosivos", "page": 27 }
+    ],
+    "quotes": [
+      { "text": "A revogação dos decretos editados no governo anterior, que facilitavam o acesso a armas de fogo, foi uma medida acertada. Por isso, manteremos uma política de controle de armas e munições", "page": 28 }
+    ]
+  },
+  "drogas": {
+    "status": "partial",
+    "answer": "O plano de governo de Lula não menciona drogas de forma específica nem trata de descriminalização. O tema aparece apenas indiretamente: o documento propõe combater o crime organizado e o tráfico de armas e cita, entre resultados passados, a cooperação contra 'rotas do tráfico'. Na saúde mental da juventude, menciona a Política Nacional de Atenção Psicossocial e a 'redução de danos', sem especificar substâncias.",
+    "points": [
+      { "text": "Saúde mental da juventude com foco em atenção psicossocial e redução de danos", "page": 25 }
+    ],
+    "quotes": [
+      { "text": "Aprimorar a política de saúde mental para a juventude é um de nossos compromissos, com foco na Política Nacional de Atenção Psicossocial, na redução de danos", "page": 25 }
+    ]
+  },
+  "aborto": {
+    "status": "partial",
+    "answer": "O plano de governo de Lula não menciona o aborto. O conteúdo mais próximo é a menção, no capítulo sobre mulheres, a 'garantir os direitos sexuais e reprodutivos', e, na saúde, propostas de planejamento reprodutivo com distribuição gratuita de métodos contraceptivos e de redução da mortalidade materna. O documento não detalha o que entende por direitos reprodutivos.",
+    "points": [
+      { "text": "Ampliar acesso gratuito a contraceptivos modernos e de longa duração no SUS", "page": 38 },
+      { "text": "Redução da mortalidade materna, com atenção a mulheres negras", "page": 39 }
+    ],
+    "quotes": [
+      { "text": "É preciso ampliar as políticas de proteção às mulheres, combater o machismo, o sexismo e o feminicídio, promover a autonomia econômica, assegurar igualdade de oportunidades e garantir os direitos sexuais e reprodutivos.", "page": 21 }
+    ]
+  },
+  "familia-valores": {
+    "status": "partial",
+    "answer": "O plano de governo de Lula não tem uma seção sobre família, religião ou valores morais. O documento menciona 'fé' e 'esperança' na abertura e defende um país em que todas as pessoas, independentemente de crença ou orientação sexual, possam viver com dignidade. A família aparece como destinatária de políticas como a Política Nacional de Cuidados, creches e programas de renda, sem definição de modelo familiar.",
+    "points": [
+      { "text": "Política Nacional de Cuidados com corresponsabilização entre homens e mulheres", "page": 26 },
+      { "text": "Combate a todas as formas de discriminação, inclusive por crença", "page": 26 }
+    ],
+    "quotes": [
+      { "text": "Sem sonhos, criatividade, desejo de transformação, fé, esperança e trabalho, nada acontece.", "page": 6 },
+      { "text": "Um país em que todas as pessoas, independentemente de origem, raça, etnia, gênero, orientação sexual, idade, crença ou condição social, possam desenvolver plenamente seu potencial e viver com dignidade.", "page": 26 }
+    ]
+  },
+  "genero-escola": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe continuar planejando políticas levando em conta dimensões de gênero, identidade, orientação sexual, raça e classe, para atender pessoas LGBTQIAP+. Mantém o combate ao racismo no centro da estratégia de desenvolvimento, com regulamentação do Estatuto da Igualdade Racial e continuidade das cotas no serviço público. Na segurança, prevê priorizar o combate à violência contra pessoas LGBTQIAP+, ao racismo e a crimes de ódio. O documento não trata de conteúdo sobre gênero no currículo escolar.",
+    "points": [
+      { "text": "Políticas que considerem gênero, identidade e orientação sexual para pessoas LGBTQIAP+", "page": 23 },
+      { "text": "Regulamentar o Estatuto da Igualdade Racial", "page": 19 },
+      { "text": "Continuidade das cotas e da presença negra no funcionalismo público", "page": 19 },
+      { "text": "Priorizar combate à violência contra LGBTQIAP+, racismo e crimes de ódio", "page": 29 },
+      { "text": "Combater discriminações no acesso ao trabalho decente", "page": 75 }
+    ],
+    "quotes": [
+      { "text": "Manteremos o combate ao racismo no centro de nossa estratégia de desenvolvimento, pois não é possível compreender nem superar as desigualdades brasileiras sem enfrentar a questão racial como dimensão estruturante da sociedade.", "page": 19 },
+      { "text": "Continuaremos a planejar e construir políticas e ações levando em conta as dimensões de gênero, identidade, orientação sexual, étnico-raciais e classe social", "page": 23 }
+    ]
+  },
+  "mulheres": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe manter o Pacto de Enfrentamento ao Feminicídio como guia central, concluir 30 Casas da Mulher Brasileira e 15 Centros de Referência, ampliar as Salas Lilás e distribuir aos estados kits de monitoramento de agressores. Prevê tornar obrigatórios os Planos de Ação nas empresas com desigualdade salarial identificada, com metas progressivas, no âmbito da Lei de Igualdade Salarial. Na saúde, propõe ampliar exames de câncer de mama e colo do útero, contraceptivos gratuitos e o Programa Dignidade Menstrual.",
+    "points": [
+      { "text": "Concluir 30 Casas da Mulher Brasileira e 15 Centros de Referência", "page": 21 },
+      { "text": "Ampliar Salas Lilás e distribuir kits de monitoramento de agressores", "page": 21 },
+      { "text": "Planos de Ação obrigatórios em empresas com desigualdade salarial", "page": 75 },
+      { "text": "Diagnóstico precoce de câncer de mama e colo do útero e cuidado da endometriose", "page": 38 },
+      { "text": "Crédito e qualificação para mulheres, como Pronaf e Mulheres Mil", "page": 21 }
+    ],
+    "quotes": [
+      { "text": "O Pacto de Enfrentamento ao Feminicídio permanecerá como guia central de nossa estratégia de enfrentamento à violência contra mulheres.", "page": 21 },
+      { "text": "A execução dos Planos de Ação nas empresas com desigualdades identificadas será tornada obrigatória, com metas progressivas de redução das disparidades salariais", "page": 75 }
+    ]
+  },
+  "stf-judiciario": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe manter diálogo permanente, respeitoso e construtivo entre os Poderes da República e entre os entes da Federação. Em relação ao Judiciário, afirma que o sistema de Justiça ainda é marcado por morosidade decisória e propõe a continuidade do diálogo com os atores do Judiciário, respeitada a autonomia dos Poderes, para estimular seu aperfeiçoamento. O documento não menciona o STF nominalmente.",
+    "points": [
+      { "text": "Diálogo permanente e respeitoso entre os Poderes e os entes federativos", "page": 15 },
+      { "text": "Diálogo com o Judiciário para reduzir a morosidade, respeitada a autonomia dos Poderes", "page": 16 }
+    ],
+    "quotes": [
+      { "text": "Nesse sentido, propomos a continuidade do diálogo permanente com os atores do judiciário, respeitada a autonomia dos Poderes, para estimular o aperfeiçoamento do sistema de Justiça.", "page": 16 },
+      { "text": "Nosso compromisso é manter diálogo permanente, respeitoso e construtivo em torno dos interesses nacionais.", "page": 15 }
+    ]
+  },
+  "anistia": {
+    "status": "partial",
+    "answer": "O plano de governo de Lula não menciona anistia aos condenados pelos atos de 8 de janeiro. O documento cita o 8 de janeiro de 2023 apenas ao descrever o início do atual mandato, referindo-se a ele como 'tentativa golpista', sem apresentar proposta sobre o tema.",
+    "points": [],
+    "quotes": [
+      { "text": "O governo Lula III começou com a tentativa golpista de 8 de janeiro de 2023, mobilizações violentas contra a democracia e um Estado profundamente desmontado e fiscalmente desequilibrado.", "page": 8 }
+    ]
+  },
+  "liberdade-expressao": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe avançar na 'regulação democrática' das redes sociais e plataformas digitais para impedir que difundam desinformação e campanhas de ódio, afirmando ao mesmo tempo que nenhuma democracia sobrevive sem a garantia plena da liberdade de expressão. Prevê também uma Política Nacional de Letramento Digital, um Conselho Nacional pela Soberania Digital, transparência algorítmica e a regulamentação da inteligência artificial e das plataformas de jogos.",
+    "points": [
+      { "text": "Regulação democrática das redes sociais e plataformas digitais", "page": 16 },
+      { "text": "Política Nacional de Letramento Digital para combater a desinformação", "page": 17 },
+      { "text": "Conselho Nacional pela Soberania Digital com participação social", "page": 17 },
+      { "text": "Transparência algorítmica e rastreabilidade de conteúdo sintético", "page": 55 },
+      { "text": "Ambiente digital submetido às leis brasileiras", "page": 54 }
+    ],
+    "quotes": [
+      { "text": "É parte da reafirmação da democracia avançar ainda mais na regulação democrática das redes sociais e das plataformas digitais, de modo a impedir que elas difundam desinformação, acolham campanhas de ódio", "page": 16 },
+      { "text": "Nenhuma democracia sobrevive sem uma opinião pública plural e sem a garantia plena da liberdade de expressão.", "page": 16 }
+    ]
+  },
+  "democracia": {
+    "status": "covered",
+    "answer": "O plano de Lula considera a reforma política e eleitoral 'inadiável' para aproximar a representação política da composição real da sociedade, mas não detalha seu conteúdo. Propõe aprofundar a participação social, continuar realizando conferências nacionais, tornar o PPA 2028-2031 mais participativo e levar a participação ao ciclo orçamentário. O documento também propõe debater com a sociedade o sistema de emendas parlamentares e a regulação democrática das redes.",
+    "points": [
+      { "text": "Reforma política e eleitoral considerada inadiável", "page": 15 },
+      { "text": "Aprofundar a participação social e manter conferências nacionais", "page": 15 },
+      { "text": "PPA 2028-2031 mais participativo e participação no ciclo orçamentário", "page": 15 },
+      { "text": "Debater com a sociedade as emendas parlamentares", "page": 16 }
+    ],
+    "quotes": [
+      { "text": "A reforma política e eleitoral é inadiável para superar a dissociação entre a representação política e a composição real da sociedade brasileira", "page": 15 }
+    ]
+  },
+  "corrupcao": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe aprofundar o Plano de Integridade e Combate à Corrupção 2025–2027, fortalecendo prevenção, investigação e responsabilização de corruptos e corruptores, 'inclusive os do andar de cima', com respeito à independência das instituições. Prevê investir no Portal da Transparência para torná-lo uma plataforma baseada em dados abertos e inteligência artificial e fortalecer a Ouvidoria-Geral da União e as consultas públicas.",
+    "points": [
+      { "text": "Aprofundar o Plano de Integridade e Combate à Corrupção 2025–2027", "page": 18 },
+      { "text": "Portal da Transparência com dados abertos e inteligência artificial", "page": 18 },
+      { "text": "Fortalecer a Ouvidoria-Geral da União e consultas públicas", "page": 18 },
+      { "text": "Barrar candidaturas de pessoas ligadas ao crime organizado", "page": 27 }
+    ],
+    "quotes": [
+      { "text": "O Plano de Integridade e Combate à Corrupção 2025–2027 representa um avanço institucional que será aprofundado, fortalecendo a prevenção, a investigação e a responsabilização de corruptos e corruptores, inclusive os do andar de cima", "page": 18 }
+    ]
+  },
+  "privatizacoes": {
+    "status": "covered",
+    "answer": "O plano de Lula não propõe privatizações de estatais. Prevê que a Petrobras amplie investimentos em exploração, retorne ao segmento de distribuição de combustíveis, expanda o refino e fortaleça sua participação em biocombustíveis. Ao mesmo tempo, propõe manter o ritmo das concessões rodoviárias, intensificar as de ferrovias e prosseguir com arrendamentos portuários. O documento não menciona os Correios.",
+    "points": [
+      { "text": "Petrobras deve retornar à distribuição de combustíveis e expandir o refino", "page": 67 },
+      { "text": "Petrobras ampliando exploração onshore e offshore", "page": 67 },
+      { "text": "Fortalecer a participação da Petrobras em biocombustíveis", "page": 68 },
+      { "text": "Manter concessões rodoviárias e intensificar as ferroviárias", "page": 53 },
+      { "text": "Novos arrendamentos nos portos organizados", "page": 54 }
+    ],
+    "quotes": [
+      { "text": "A Petrobras deverá retornar ao segmento de distribuição de combustíveis, expandindo sua capacidade de refino e ampliando a atuação da Transpetro para logística de GNL.", "page": 67 },
+      { "text": "Manteremos o ritmo nas concessões rodoviárias e intensificaremos as de ferrovias em duas frentes: leilão de novos projetos e repactuação dos contratos existentes.", "page": 53 }
+    ]
+  },
+  "tamanho-do-estado": {
+    "status": "covered",
+    "answer": "O plano de Lula não propõe reduzir o tamanho do Estado; defende a 'reconstrução do Estado' e sua modernização. Propõe universalizar serviços públicos digitais, ampliar o Gov.br, aprimorar o compartilhamento de serviços de suporte entre ministérios e usar o poder de compra do Estado como ferramenta de desenvolvimento. Prevê aprofundar a valorização de servidores via Mesa Nacional de Negociação Permanente e criar o Ministério da Segurança Pública.",
+    "points": [
+      { "text": "Universalizar serviços públicos digitais e ampliar o Gov.br", "page": 17 },
+      { "text": "Centralizar e compartilhar serviços de suporte entre órgãos federais", "page": 17 },
+      { "text": "Aprimorar o uso do poder de compra do Estado, como o Contrata+ Brasil", "page": 17 },
+      { "text": "Valorização de servidores pela Mesa Nacional de Negociação Permanente", "page": 16 },
+      { "text": "Criar o Ministério da Segurança Pública", "page": 30 }
+    ],
+    "quotes": [
+      { "text": "Vamos continuar investindo na universalização dos serviços públicos digitais de qualidade, e na construção de infraestruturas públicas digitais que deem suporte à personalização dos serviços.", "page": 17 }
+    ]
+  },
+  "previdencia": {
+    "status": "covered",
+    "answer": "O plano de Lula afirma que concluirá, no próximo mandato, a modernização dos serviços previdenciários e cita como base o enfrentamento às filas do INSS. Propõe reestruturar a base de financiamento da Previdência, buscando diversificar fontes de custeio, criar mecanismos contributivos mais flexíveis para trajetórias de trabalho descontínuas e incluir trabalhadores de plataformas na cobertura previdenciária. A valorização do salário mínimo é citada como forma de elevar o poder de compra de aposentados.",
+    "points": [
+      { "text": "Concluir a modernização dos serviços previdenciários", "page": 77 },
+      { "text": "Reestruturar e diversificar as fontes de financiamento da Previdência", "page": 77 },
+      { "text": "Mecanismos contributivos flexíveis para trajetórias ocupacionais descontínuas", "page": 77 },
+      { "text": "Cobertura previdenciária para trabalhadores de plataformas", "page": 77 }
+    ],
+    "quotes": [
+      { "text": "Estamos seguros de que, no próximo mandato, concluiremos o processo de modernização e aprimoramento da prestação dos serviços previdenciários.", "page": 77 },
+      { "text": "Vamos continuar, em diálogo com a sociedade, a aprimorar a política de acesso e buscar reestruturar a base de financiamento da Previdência, buscando a diversidade das fontes de custeio.", "page": 77 }
+    ]
+  },
+  "moradia": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe manter e ampliar o Minha Casa Minha Vida para todas as faixas de renda, com foco nas famílias de mais baixa renda, e criar instrumentos como o Compra Assistida e o uso de imóveis da União. Prevê garantir recursos para concluir obras de urbanização de favelas do Periferia Viva, apoiar a universalização de água e esgoto e investir em transporte coletivo de alta capacidade e eletrificação de frotas. O documento também menciona aprimorar a Defesa Civil e a adaptação das cidades às mudanças climáticas.",
+    "points": [
+      { "text": "Manter e ampliar o MCMV para todas as faixas de renda", "page": 45 },
+      { "text": "Compra Assistida e uso de áreas da União para moradias", "page": 45 },
+      { "text": "Recursos para concluir obras do Periferia Viva e novas seleções", "page": 46 },
+      { "text": "Apoiar a universalização de água tratada e esgotamento sanitário", "page": 46 },
+      { "text": "Transporte coletivo de alta capacidade e eletrificação de frotas", "page": 46 }
+    ],
+    "quotes": [
+      { "text": "O MCMV será mantido e ampliado no próximo mandato, para todas as faixas de renda e preservando seu foco nas famílias de mais baixa renda.", "page": 45 },
+      { "text": "Nosso compromisso é continuar apoiando investimentos em transporte coletivo de alta capacidade e na modernização e eletrificação progressiva das frotas do transporte coletivo.", "page": 46 }
+    ]
+  },
+  "agro": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe fortalecer o crédito rural, ampliando os recursos do Plano Safra com juros compatíveis com a atividade, e expandir o Plano Safra da Agricultura Familiar com prioridade para alimentos da cesta básica. Prevê um programa nacional de resiliência climática no campo, fortalecimento do seguro rural, abertura de novos mercados e fortalecimento da Embrapa. Para a agricultura familiar, menciona ampliação do PAA, da assistência técnica e do Garantia-Safra.",
+    "points": [
+      { "text": "Ampliar recursos do Plano Safra com juros compatíveis", "page": 61 },
+      { "text": "Programa nacional de resiliência climática no campo", "page": 61 },
+      { "text": "Fortalecer o seguro rural e instrumento para perdas sistêmicas", "page": 62 },
+      { "text": "Fortalecer a Embrapa em biotecnologia e edição genômica", "page": 62 },
+      { "text": "Ampliar PAA, ATER e Garantia-Safra para a agricultura familiar", "page": 60 }
+    ],
+    "quotes": [
+      { "text": "Continuaremos fortalecendo o crédito rural, ampliando os recursos do Plano Safra e assegurando juros compatíveis com a rentabilidade da atividade agropecuária.", "page": 61 },
+      { "text": "Vamos continuar expandindo o Plano Safra da Agricultura Familiar, com juros compatíveis com o perfil do agricultor e tipo de produto, com prioridade para produção de alimentos da cesta básica.", "page": 59 }
+    ]
+  },
+  "mst-terra": {
+    "status": "partial",
+    "answer": "O plano de Lula propõe continuar a política de reforma agrária, assentando as famílias acampadas, estruturando os assentamentos e ampliando o crédito fundiário, além de reforçar a regularização fundiária, sobretudo no Norte. Prevê ampliar o PRONERA e fortalecer políticas de prevenção à violência no campo. O documento não menciona o MST nominalmente nem trata de invasões de terra.",
+    "points": [
+      { "text": "Assentar famílias acampadas e estruturar assentamentos", "page": 60 },
+      { "text": "Ampliar acesso ao crédito fundiário", "page": 60 },
+      { "text": "Regularização fundiária, especialmente na região Norte", "page": 60 },
+      { "text": "Prevenção e combate à violência no campo", "page": 61 }
+    ],
+    "quotes": [
+      { "text": "Continuaremos a avançar na política de reforma agrária, assentando as famílias acampadas, estruturando os assentamentos e ampliando o acesso ao crédito fundiário.", "page": 60 }
+    ]
+  },
+  "meio-ambiente": {
+    "status": "covered",
+    "answer": "O plano de Lula reafirma a meta de desmatamento líquido zero até 2030 e propõe implementar planos de prevenção e controle do desmatamento e o Plano Nacional de Manejo Integrado do Fogo. Prevê cumprir a nova NDC, manter o Fundo Clima e o Eco Invest como instrumentos de financiamento, implementar o Fundo Florestas Tropicais para Sempre e expandir o monitoramento por satélite e inteligência artificial contra crimes ambientais. O documento também propõe institucionalizar a adaptação climática no planejamento público.",
+    "points": [
+      { "text": "Desmatamento líquido zero até 2030", "page": 70 },
+      { "text": "Cumprir a nova NDC de redução de emissões", "page": 71 },
+      { "text": "Monitoramento por satélite e IA contra crimes ambientais", "page": 72 },
+      { "text": "Destinar terras públicas a unidades de conservação e territórios tradicionais", "page": 70 },
+      { "text": "Institucionalizar a adaptação climática no planejamento público", "page": 72 }
+    ],
+    "quotes": [
+      { "text": "No próximo mandato, continuaremos trabalhando para alcançar o desmatamento líquido zero até 2030, meta que reafirmamos.", "page": 70 }
+    ]
+  },
+  "indigenas": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe garantir proteção aos territórios indígenas, com ações de demarcação e desintrusão de terras 'sempre que necessárias', e implantar plenamente a Universidade Indígena. Cita como base a homologação de 20 terras indígenas no atual mandato. Para quilombolas, prevê acelerar os procedimentos de titulação de territórios. O documento não menciona o marco temporal.",
+    "points": [
+      { "text": "Demarcação e desintrusão de terras indígenas quando necessárias", "page": 20 },
+      { "text": "Implantar plenamente a Universidade Indígena", "page": 20 },
+      { "text": "Saúde indígena com participação dos indígenas na gestão", "page": 21 },
+      { "text": "Acelerar a titulação de territórios quilombolas", "page": 20 }
+    ],
+    "quotes": [
+      { "text": "Persistiremos, garantindo proteção a seus territórios, com ações para demarcação e desintrusão de terras sempre que necessárias.", "page": 20 }
+    ]
+  },
+  "energia": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe ampliar fontes renováveis, investimentos em baterias e armazenamento e a substituição progressiva de combustíveis fósseis por biocombustíveis, ao mesmo tempo em que a Petrobras amplia exploração e refino. Prevê continuar mitigando a volatilidade dos preços internacionais de combustíveis, promover debate sobre o barateamento da energia elétrica e combater a pobreza energética. Também menciona preservar a competência nuclear para uso pacífico e acelerar a redução da produção de carvão.",
+    "points": [
+      { "text": "Ampliar renováveis, baterias e armazenamento no sistema elétrico", "page": 64 },
+      { "text": "Substituição progressiva de fósseis por biocombustíveis e hidrogênio", "page": 64 },
+      { "text": "Mitigar a volatilidade dos preços internacionais de combustíveis", "page": 66 },
+      { "text": "Petrobras de volta à distribuição de combustíveis", "page": 67 },
+      { "text": "Autonomia do ciclo do combustível nuclear para uso pacífico", "page": 68 }
+    ],
+    "quotes": [
+      { "text": "No próximo mandato, continuaremos atuando para, em simultâneo, assegurar segurança energética, avançar na transição energética justa e combater a pobreza energética.", "page": 64 },
+      { "text": "Continuaremos a atuar para mitigar a volatilidade dos preços internacionais, garantindo que os brasileiros não fiquem expostos a choques externos.", "page": 66 }
+    ]
+  },
+  "politica-externa": {
+    "status": "partial",
+    "answer": "O plano de Lula propõe uma política externa 'independente, ativa' e universalista, com prioridade à integração sul-americana e ao Mercosul, aprofundamento da relação com o BRICS e o Sul Global e defesa da reforma da ONU, da OMC e do FMI. O documento menciona os tarifaços do governo Trump como fato do atual mandato e propõe enfrentar agressões comerciais com novos acordos e mercados. Não há menção específica às relações com China ou Venezuela.",
+    "points": [
+      { "text": "Aprofundar o Mercosul e a integração sul-americana", "page": 80 },
+      { "text": "Aproximação geopolítica com BRICS, Sul Global e G20", "page": 81 },
+      { "text": "Reforma do Conselho de Segurança da ONU, da OMC e do FMI", "page": 81 },
+      { "text": "Novos acordos comerciais para enfrentar agressões comerciais", "page": 80 },
+      { "text": "Aprofundar relações com a África e reaproximação com Ásia e Europa", "page": 80 }
+    ],
+    "quotes": [
+      { "text": "Na política externa, o Brasil deverá ser cada vez mais independente, ativo e comprometido com a integração regional e com a afirmação da América do Sul e do Caribe como zona de paz.", "page": 80 },
+      { "text": "Aprofundaremos a aproximação geopolítica com o BRICS e com o Sul Global, bem como com o G20, espaços fundamentais para a afirmação dos interesses da maioria da humanidade.", "page": 81 }
+    ]
+  },
+  "tecnologia": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe garantir a 'soberania digital', fomentando o ecossistema nacional desde datacenters até serviços de nuvem, com destaque para a inteligência artificial desenvolvida por empresas brasileiras e uma infraestrutura computacional soberana. Prevê desenvolver modelos de linguagem em português, exigir salvaguardas socioambientais e contrapartidas de conteúdo local para data centers e reduzir o déficit de fibra óptica, ampliando o 5G no campo. Também propõe consolidar a transparência algorítmica.",
+    "points": [
+      { "text": "Infraestrutura computacional soberana com supercomputadores nacionais", "page": 54 },
+      { "text": "Modelos de linguagem em português com plataforma nacional de dados", "page": 55 },
+      { "text": "Salvaguardas socioambientais e contrapartidas para data centers", "page": 54 },
+      { "text": "Reduzir déficit de fibra óptica e ampliar 5G no campo", "page": 55 },
+      { "text": "Centro Nacional de Transparência Algorítmica", "page": 55 }
+    ],
+    "quotes": [
+      { "text": "No próximo ciclo, vamos fomentar o desenvolvimento do ecossistema nacional de tecnologia digital, desde a cadeia de datacenters até os serviços de nuvem, com destaque para o fortalecimento da inteligência artificial desenvolvida por empresas brasileiras.", "page": 54 },
+      { "text": "Vamos desenvolver e sustentar modelos de linguagem em português e outras línguas, voltados aos problemas do País, apoiados numa plataforma nacional de dados para treinamento e avaliação.", "page": 55 }
+    ]
+  },
+  "pequenas-empresas": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe simplificar o ambiente de negócios, ampliar o acesso das pequenas empresas às compras governamentais e assegurar tratamento tributário justo na implementação da reforma tributária. Prevê potencializar o crédito via fundos garantidores, criar fundos de participação com bancos públicos e ampliar o Brasil Mais Produtivo. Para trabalhadores autônomos e MEIs, menciona crédito produtivo, qualificação, simplificação tributária e ampliação da proteção social.",
+    "points": [
+      { "text": "Simplificar o ambiente de negócios", "page": 57 },
+      { "text": "Ampliar acesso de pequenas empresas às compras governamentais", "page": 57 },
+      { "text": "Crédito para MPMEs por meio de fundos garantidores", "page": 58 },
+      { "text": "Ampliar o Brasil Mais Produtivo com crédito para digitalização", "page": 58 },
+      { "text": "Proteção social e previdenciária para autônomos e pequenos empreendedores", "page": 76 }
+    ],
+    "quotes": [
+      { "text": "No próximo período, vamos simplificar ainda mais o ambiente de negócios, ampliar o acesso das pequenas empresas às compras governamentais, assegurar tratamento tributário justo na implementação da reforma tributária", "page": 57 }
+    ]
+  },
+  "criancas-cuidado": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe ampliar o fomento à construção de creches pelo Novo PAC e fortalecer a Política Nacional de Cuidados, com apoio às Cuidotecas e capacitação de cuidadores. Para idosos, prevê dar escala ao Programa de Atenção Domiciliar ao Idoso (PADI) e ampliar Centros-Dia e vagas públicas em instituições de longa permanência. Para pessoas com deficiência, menciona o Viver sem Limites, mais Centros Especializados em Reabilitação e fortalecimento do diagnóstico de pessoas com TEA, além do aprimoramento do ECA Digital.",
+    "points": [
+      { "text": "Ampliar fomento à construção de creches no Novo PAC", "page": 31 },
+      { "text": "Apoiar Cuidotecas para crianças de 3 a 12 anos", "page": 26 },
+      { "text": "Dar escala ao PADI e ampliar Centros-Dia para idosos", "page": 22 },
+      { "text": "Mais Centros Especializados em Reabilitação e manutenção do Viver sem Limites", "page": 23 },
+      { "text": "Aprimorar o ECA Digital e regulamentar telas por faixa etária", "page": 24 }
+    ],
+    "quotes": [
+      { "text": "Vamos dar escala a esse programa do SUS para que idosos tenham acesso a esse direito em todo território nacional.", "page": 22 },
+      { "text": "Não recuaremos um passo sequer na proteção digital de crianças e adolescentes, com aprimoramento do ECA Digital, regulamentação do uso de telas por faixa etária", "page": 24 }
+    ]
+  },
+  "cultura-esporte": {
+    "status": "covered",
+    "answer": "O plano de Lula propõe aperfeiçoar a Lei Aldir Blanc e a Lei Rouanet, com desconcentração regional, fortalecer os Pontos de Cultura e trabalhar pela regulamentação do streaming e de uma lei de direito autoral no ambiente digital. No esporte, prevê ampliar o Bolsa Atleta, manter o patrocínio de estatais, implementar a Universidade do Esporte, realizar a Copa do Mundo de Futebol Feminino e ampliar o apoio às Arenas Brasil.",
+    "points": [
+      { "text": "Aperfeiçoar a Lei Aldir Blanc e a Lei Rouanet", "page": 40 },
+      { "text": "Regulamentação do streaming e direito autoral no ambiente digital", "page": 42 },
+      { "text": "Ampliar o Bolsa Atleta e manter patrocínio de estatais", "page": 43 },
+      { "text": "Implementar a Universidade do Esporte", "page": 43 },
+      { "text": "Ampliar apoio às Arenas Brasil", "page": 44 }
+    ],
+    "quotes": [
+      { "text": "Os principais instrumentos de fomento – Lei Aldir Blanc e Lei Rouanet – serão aperfeiçoados e implementados de forma", "page": 40 },
+      { "text": "Vamos continuar ampliando e fortalecendo o programa, além de manter o patrocínio das empresas estatais para assegurar que no próximo ciclo olímpico e paralímpico avancemos ainda mais", "page": 43 }
+    ]
+  }
+}
