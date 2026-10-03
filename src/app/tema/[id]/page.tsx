@@ -13,7 +13,16 @@ export async function generateMetadata({ params }: PageProps<'/tema/[id]'>): Pro
   const { id } = await params;
   const topic = getTopic(id);
 
-  return topic ? { title: `${topic.label} — Lula × Flávio`, description: topic.question } : {};
+  if (!topic) return {};
+
+  const title = `${topic.label}: o que dizem Lula e Flávio`;
+
+  return {
+    title: `${title} — Lula × Flávio`,
+    description: topic.question,
+    openGraph: { title, description: `${topic.question} Veja lado a lado, com a página do plano de governo.` },
+    twitter: { card: 'summary_large_image', title },
+  };
 }
 
 export default async function TopicPage({ params }: PageProps<'/tema/[id]'>) {

@@ -31,7 +31,9 @@ export function Ask({ topics }: { topics: Topic[] }) {
 
     const url = new URL(window.location.href);
 
-    url.search = topicId ? `?tema=${topicId}` : `?q=${encodeURIComponent(label)}`;
+    // Topic answers get their own page so shared links carry that topic's preview card.
+    url.pathname = topicId ? `/tema/${topicId}` : '/';
+    url.search = topicId ? '' : `?q=${encodeURIComponent(label)}`;
     window.history.replaceState(null, '', url);
 
     try {
