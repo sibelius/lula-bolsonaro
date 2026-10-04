@@ -535,5 +535,46 @@
       "arte",
       "atleta"
     ]
+  },
+  {
+    "id": "vorcaro-dark-horse",
+    "label": "Vorcaro e o filme Dark Horse",
+    "group": "fato",
+    "question": "O que as reportagens registram sobre Flávio Bolsonaro, Daniel Vorcaro e o financiamento do filme Dark Horse?",
+    "keywords": [
+      "vorcaro",
+      "daniel vorcaro",
+      "dark horse",
+      "banco master",
+      "havengate",
+      "filme do pai",
+      "filme sobre o pai"
+    ]
+  },
+  {
+    "id": "vice-alfredo-gaspar",
+    "label": "Vice Alfredo Gaspar",
+    "group": "fato",
+    "question": "O que as reportagens registram sobre Alfredo Gaspar, candidato a vice na chapa de Flávio Bolsonaro?",
+    "keywords": [
+      "alfredo gaspar",
+      "gaspar",
+      "vice de flavio",
+      "candidato a vice",
+      "vice-presidente"
+    ]
+  },
+  {
+    "id": "rachadinha",
+    "label": "Rachadinha",
+    "group": "fato",
+    "question": "O que as reportagens registram sobre o caso da rachadinha atribuído a Flávio Bolsonaro?",
+    "keywords": [
+      "rachadinha",
+      "rachadinhas",
+      "queiroz",
+      "fabricio queiroz",
+      "fabrício queiroz"
+    ]
   }
 ]

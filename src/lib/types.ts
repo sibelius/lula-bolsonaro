@@ -10,9 +10,27 @@ export type Passage = {
 export type Topic = {
   id: string;
   label: string;
-  group: 'geral' | 'polemico';
+  group: 'geral' | 'polemico' | 'fato';
   question: string;
   keywords: string[];
+};
+
+/** One claim copied from a single article. `text` is our sentence; the link is the source. */
+export type PressItem = {
+  text: string;
+  outlet: string;
+  date: string;
+  url: string;
+};
+
+/** Words the article puts in quotation marks, copied without edits. */
+export type PressQuote = PressItem & {
+  who: string;
+};
+
+export type ReportedFacts = {
+  items: PressItem[];
+  quotes: PressQuote[];
 };
 
 export type Citation = {
@@ -35,4 +53,6 @@ export type AskResponse = {
   topic: Topic | null;
   answers: Record<CandidateId, CandidateAnswer>;
   passages: Record<CandidateId, Passage[]>;
+  /** Set only for topics the plans do not cover. Null on plan answers. */
+  reported: ReportedFacts | null;
 };

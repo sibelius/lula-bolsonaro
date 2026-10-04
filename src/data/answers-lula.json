@@ -554,5 +554,23 @@
       { "text": "Os principais instrumentos de fomento – Lei Aldir Blanc e Lei Rouanet – serão aperfeiçoados e implementados de forma", "page": 40 },
       { "text": "Vamos continuar ampliando e fortalecendo o programa, além de manter o patrocínio das empresas estatais para assegurar que no próximo ciclo olímpico e paralímpico avancemos ainda mais", "page": 43 }
     ]
+  },
+  "vorcaro-dark-horse": {
+    "status": "not_found",
+    "answer": "O plano de governo de Lula registrado no TSE não menciona Daniel Vorcaro, o Banco Master nem o filme Dark Horse. O que as reportagens publicaram sobre Flávio e o banqueiro está fora dos dois planos, no bloco de fontes abaixo.",
+    "points": [],
+    "quotes": []
+  },
+  "vice-alfredo-gaspar": {
+    "status": "not_found",
+    "answer": "O plano de governo de Lula registrado no TSE não menciona Alfredo Gaspar nem a chapa de Flávio Bolsonaro. A acusação relatada pela imprensa está fora dos dois planos, no bloco de fontes abaixo.",
+    "points": [],
+    "quotes": []
+  },
+  "rachadinha": {
+    "status": "not_found",
+    "answer": "O plano de governo de Lula registrado no TSE não menciona o caso da rachadinha, Fabrício Queiroz nem o gabinete de Flávio na Alerj. O processo descrito pela imprensa está fora dos dois planos, no bloco de fontes abaixo.",
+    "points": [],
+    "quotes": []
   }
 }

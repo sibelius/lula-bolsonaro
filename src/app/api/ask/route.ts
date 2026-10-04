@@ -1,5 +1,6 @@
 import { askModel, hasModel } from '@/lib/ai';
 import { curatedAnswers } from '@/lib/answers';
+import { reportedFacts } from '@/lib/facts';
 import { getTopic, matchTopic, searchPassages } from '@/lib/search';
 import type { AskResponse, CandidateAnswer, CandidateId, Passage } from '@/lib/types';
 
@@ -36,18 +37,29 @@ export async function POST(request: Request) {
 
   const asked = question || explicitTopic!.question;
   const topic = explicitTopic ?? matchTopic(asked);
-  const passages = {
-    lula: searchPassages('lula', asked),
-    flavio: searchPassages('flavio', asked),
-  };
+  const reported = topic?.group === 'fato' ? reportedFacts(topic.id) : null;
+  // Press topics must not drag unrelated plan excerpts into the record.
+  const passages = reported
+    ? { lula: [], flavio: [] }
+    : {
+        lula: searchPassages('lula', asked),
+        flavio: searchPassages('flavio', asked),
+      };
 
-  // Free-form questions go to the model when one is configured; topic chips and
-  // questions without a model use the curated, page-cited answers.
-  if (!explicitTopic && hasModel()) {
+  // Free-form questions go to the model when one is configured. A matched press
+  // topic stays on the sourced record: the model is forbidden to use the news.
+  if (!explicitTopic && hasModel() && !reported) {
     try {
       const answers = await askModel(asked);
 
-      return Response.json({ question: asked, mode: 'ai', topic, answers, passages } satisfies AskResponse);
+      return Response.json({
+        question: asked,
+        mode: 'ai',
+        topic,
+        answers,
+        passages,
+        reported: null,
+      } satisfies AskResponse);
     } catch (error) {
       console.error('askModel failed', error);
     }
@@ -56,7 +68,14 @@ export async function POST(request: Request) {
   const curated = topic ? curatedAnswers(topic.id) : null;
 
   if (curated) {
-    return Response.json({ question: asked, mode: 'curated', topic, answers: curated, passages } satisfies AskResponse);
+    return Response.json({
+      question: asked,
+      mode: 'curated',
+      topic,
+      answers: curated,
+      passages,
+      reported,
+    } satisfies AskResponse);
   }
 
   return Response.json({
@@ -68,5 +87,6 @@ export async function POST(request: Request) {
       flavio: passagesAnswer('flavio', passages.flavio),
     },
     passages,
+    reported: null,
   } satisfies AskResponse);
 }

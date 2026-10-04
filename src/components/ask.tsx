@@ -66,6 +66,7 @@ export function Ask({ topics }: { topics: Topic[] }) {
 
   const general = topics.filter((t) => t.group === 'geral');
   const polemic = topics.filter((t) => t.group === 'polemico');
+  const facts = topics.filter((t) => t.group === 'fato');
 
   return (
     <>
@@ -110,6 +111,7 @@ export function Ask({ topics }: { topics: Topic[] }) {
                 }
                 answers={entry.result.answers}
                 passages={entry.result.passages}
+                reported={entry.result.reported}
               />
             ) : (
               <section className="pair pair-loading">
@@ -132,15 +134,35 @@ export function Ask({ topics }: { topics: Topic[] }) {
       <section className="topics" id="temas">
         <TopicGroup title="Temas do dia a dia" topics={general} onPick={(t) => ask(t.question, t.id)} />
         <TopicGroup title="Temas polêmicos" topics={polemic} onPick={(t) => ask(t.question, t.id)} />
+        <TopicGroup
+          title="Fora dos planos"
+          note="Reportagens com link e citação. Não substitui o que o plano diz."
+          topics={facts}
+          className="topic-group-span"
+          onPick={(t) => ask(t.question, t.id)}
+        />
       </section>
     </>
   );
 }
 
-function TopicGroup({ title, topics, onPick }: { title: string; topics: Topic[]; onPick: (t: Topic) => void }) {
+function TopicGroup({
+  title,
+  note,
+  topics,
+  className,
+  onPick,
+}: {
+  title: string;
+  note?: string;
+  topics: Topic[];
+  className?: string;
+  onPick: (t: Topic) => void;
+}) {
   return (
-    <div className="topic-group">
+    <div className={className ? `topic-group ${className}` : 'topic-group'}>
       <h2>{title}</h2>
+      {note ? <p className="topic-note">{note}</p> : null}
       <div className="topic-list">
         {topics.map((topic) => (
           <button key={topic.id} type="button" className="topic" onClick={() => onPick(topic)}>
