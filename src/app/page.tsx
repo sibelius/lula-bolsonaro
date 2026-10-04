@@ -12,7 +12,9 @@ export default function Home() {
         <p className="lede">
           Pergunte sobre qualquer tema — economia, segurança, PCC, pena de morte, programas sociais — e veja lado a lado
           o que dizem os planos de governo de <strong className="c-lula">Lula</strong> e{' '}
-          <strong className="c-flavio">Flávio Bolsonaro</strong>, sempre com a página do documento.
+          <strong className="c-flavio">Flávio Bolsonaro</strong>, sempre com a página do documento. Em três temas que os
+          planos não tratam — Vorcaro e Dark Horse, o vice Alfredo Gaspar e a rachadinha — entram só reportagens, com o
+          link e a citação.
         </p>
       </section>
       <Ask topics={TOPICS} />

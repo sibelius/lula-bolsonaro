@@ -1,5 +1,5 @@
 import { CANDIDATES, CANDIDATE_IDS } from '@/lib/candidates';
-import type { AnswerMode, CandidateAnswer, CandidateId, Passage } from '@/lib/types';
+import type { AnswerMode, CandidateAnswer, CandidateId, Passage, ReportedFacts } from '@/lib/types';
 
 const STATUS_LABEL: Record<CandidateAnswer['status'], string> = {
   covered: 'Tratado no plano',
@@ -12,6 +12,39 @@ const MODE_LABEL: Record<AnswerMode, string> = {
   ai: 'Resposta gerada por IA a partir dos dois planos',
   passages: 'Busca por trechos — sem resumo',
 };
+
+function SourceLink({ outlet, date, url }: { outlet: string; date: string; url: string }) {
+  return (
+    <a className="page-link" href={url} target="_blank" rel="noreferrer">
+      {outlet}, {date}
+    </a>
+  );
+}
+
+function ReportedRecord({ facts }: { facts: ReportedFacts }) {
+  return (
+    <section className="reported">
+      <h3>Fora dos planos, segundo as reportagens</h3>
+      <p className="reported-note">
+        Nenhuma frase deste bloco está nos PDFs do TSE. Cada uma aponta a matéria de onde saiu. Onde os veículos
+        divergem, as duas versões ficam. Acusação e investigação não são condenação.
+      </p>
+      <ul className="points">
+        {facts.items.map((item) => (
+          <li key={`${item.url}-${item.text}`}>
+            <span>{item.text}</span> <SourceLink outlet={item.outlet} date={item.date} url={item.url} />
+          </li>
+        ))}
+      </ul>
+      {facts.quotes.map((quote) => (
+        <blockquote key={`${quote.url}-${quote.text}`} className="quote">
+          “{quote.text}” <span className="quote-who">{quote.who}.</span>{' '}
+          <SourceLink outlet={quote.outlet} date={quote.date} url={quote.url} />
+        </blockquote>
+      ))}
+    </section>
+  );
+}
 
 function PageLink({ candidate, page }: { candidate: CandidateId; page: number }) {
   return (
@@ -89,12 +122,14 @@ export function AnswerPair({
   answers,
   passages,
   matchedTopic,
+  reported,
 }: {
   question: string;
   matchedTopic?: string;
   mode: AnswerMode;
   answers: Record<CandidateId, CandidateAnswer>;
   passages: Record<CandidateId, Passage[]>;
+  reported?: ReportedFacts | null;
 }) {
   return (
     <section className="pair">
@@ -102,7 +137,7 @@ export function AnswerPair({
         <h2>{question}</h2>
         <span className={`mode mode-${mode}`}>
           {matchedTopic ? `Tema mais próximo: ${matchedTopic} · ` : ''}
-          {MODE_LABEL[mode]}
+          {reported ? 'Não está nos planos. Abaixo, só o que as reportagens publicaram.' : MODE_LABEL[mode]}
         </span>
       </div>
       <div className="pair-grid">
@@ -110,6 +145,7 @@ export function AnswerPair({
           <AnswerColumn key={id} candidate={id} answer={answers[id]} passages={passages[id]} />
         ))}
       </div>
+      {reported ? <ReportedRecord facts={reported} /> : null}
     </section>
   );
 }

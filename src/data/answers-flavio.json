@@ -1133,5 +1133,23 @@
         "page": 40
       }
     ]
+  },
+  "vorcaro-dark-horse": {
+    "status": "not_found",
+    "answer": "O plano de governo de Flávio registrado no TSE não menciona Daniel Vorcaro, o Banco Master nem o filme Dark Horse. O bloco abaixo não é o plano: são só frases das reportagens ligadas, com a citação que cada veículo publicou.",
+    "points": [],
+    "quotes": []
+  },
+  "vice-alfredo-gaspar": {
+    "status": "not_found",
+    "answer": "O plano de governo de Flávio registrado no TSE não menciona Alfredo Gaspar nem o candidato a vice. A acusação abaixo é a que o Brasil de Fato publicou. Acusação não é condenação, e o plano não trata do caso.",
+    "points": [],
+    "quotes": []
+  },
+  "rachadinha": {
+    "status": "not_found",
+    "answer": "O plano de governo de Flávio registrado no TSE não menciona a rachadinha, Fabrício Queiroz nem o gabinete na Alerj. O bloco abaixo resume o que o Valor e a BBC News Brasil publicaram sobre o processo, inclusive o arquivamento e a versão de Flávio.",
+    "points": [],
+    "quotes": []
   }
 }

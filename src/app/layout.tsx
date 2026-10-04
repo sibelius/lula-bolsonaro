@@ -40,12 +40,13 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
         <main>{children}</main>
         <footer className="site-footer">
           <p>
-            Projeto independente, sem vínculo com candidatos, partidos ou com o TSE. As respostas resumem apenas os planos
-            de governo oficiais e podem conter erros — confira sempre a página citada no{' '}
+            Projeto independente, sem vínculo com candidatos, partidos ou com o TSE. As respostas dos temas de plano
+            resumem só os documentos oficiais. Três temas ficam de fora desses PDFs e mostram reportagens, cada frase
+            com o link. Pode haver erro — confira a página citada no{' '}
             <a href={TSE_URL} target="_blank" rel="noreferrer">
               documento registrado no TSE
-            </a>
-            .
+            </a>{' '}
+            ou a matéria linkada.
           </p>
         </footer>
       </body>
